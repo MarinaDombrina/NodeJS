@@ -1,0 +1,514 @@
+Rank;Title;Genre;Director;Actors;Year;Runtime (Minutes);Rating;Votes;Revenue (Millions);Metascore
+7;La La Land;Comedy,Drama,Music;Damien Chazelle;Ryan Gosling, Emma Stone, Rosemarie DeWitt, J.K. Simmons;2016;128;8.3;258682;151.06;93
+10;Passengers;Adventure,Drama,Romance;Morten Tyldum;Jennifer Lawrence, Chris Pratt, Michael Sheen,Laurence Fishburne;2016;116;7;192177;100.01;41
+12;Hidden Figures;Biography,Drama,History;Theodore Melfi;Taraji P. Henson, Octavia Spencer, Janelle Monáe,Kevin Costner;2016;127;7.8;93103;169.27;74
+15;Colossal;Action,Comedy,Drama;Nacho Vigalondo;Anne Hathaway, Jason Sudeikis, Austin Stowell,Tim Blake Nelson;2016;109;6.4;8612;2.87;70
+17;Hacksaw Ridge;Biography,Drama,History;Mel Gibson;Andrew Garfield, Sam Worthington, Luke Bracey,Teresa Palmer;2016;139;8.2;211760;67.12;71
+19;Lion;Biography,Drama;Garth Davis;Dev Patel, Nicole Kidman, Rooney Mara, Sunny Pawar;2016;118;8.1;102061;51.69;69
+20;Arrival;Drama,Mystery,Sci-Fi;Denis Villeneuve;Amy Adams, Jeremy Renner, Forest Whitaker,Michael Stuhlbarg;2016;116;8;340798;100.5;81
+21;Gold;Adventure,Drama,Thriller;Stephen Gaghan;Matthew McConaughey, Edgar Ramírez, Bryce Dallas Howard, Corey Stoll;2016;120;6.7;19053;7.22;49
+22;Manchester by the Sea;Drama;Kenneth Lonergan;Casey Affleck, Michelle Williams, Kyle Chandler,Lucas Hedges;2016;137;7.9;134213;47.7;96
+23;Hounds of Love;Crime,Drama,Horror;Ben Young;Emma Booth, Ashleigh Cummings, Stephen Curry,Susie Porter;2016;108;6.7;1115;0;72
+27;Bahubali: The Beginning;Action,Adventure,Drama;S.S. Rajamouli;Prabhas, Rana Daggubati, Anushka Shetty,Tamannaah Bhatia;2015;159;8.3;76193;6.5;45
+30;Assassin's Creed;Action,Adventure,Drama;Justin Kurzel;Michael Fassbender, Marion Cotillard, Jeremy Irons,Brendan Gleeson;2016;115;5.9;112813;54.65;36
+32;Nocturnal Animals;Drama,Thriller;Tom Ford;Amy Adams, Jake Gyllenhaal, Michael Shannon, Aaron Taylor-Johnson;2016;116;7.5;126030;10.64;67
+37;Interstellar;Adventure,Drama,Sci-Fi;Christopher Nolan;Matthew McConaughey, Anne Hathaway, Jessica Chastain, Mackenzie Foy;2014;169;8.6;1047747;187.99;74
+40;5/25/1977;Comedy,Drama;Patrick Read Johnson;John Francis Daley, Austin Pendleton, Colleen Camp, Neil Flynn;2007;113;7.1;241;0;71
+42;Moonlight;Drama;Barry Jenkins;Mahershala Ali, Shariff Earp, Duan Sanderson, Alex R. Hibbert;2016;111;7.5;135095;27.85;99
+44;The Founder;Biography,Drama,History;John Lee Hancock;Michael Keaton, Nick Offerman, John Carroll Lynch, Linda Cardellini;2016;115;7.2;37033;12.79;66
+45;Lowriders;Drama;Ricardo de Montreuil;Gabriel Chavarria, Demián Bichir, Theo Rossi,Tony Revolori;2016;99;6.3;279;4.21;57
+47;Miss Sloane;Drama,Thriller;John Madden;Jessica Chastain, Mark Strong, Gugu Mbatha-Raw,Michael Stuhlbarg;2016;132;7.3;17818;3.44;64
+48;Fallen;Adventure,Drama,Fantasy;Scott Hicks;Hermione Corfield, Addison Timlin, Joely Richardson,Jeremy Irvine;2016;91;5.6;5103;0;52
+50;The Last Face;Drama;Sean Penn;Charlize Theron, Javier Bardem, Adèle Exarchopoulos,Jared Harris;2016;130;3.7;987;0;16
+53;Mother's Day;Comedy,Drama;Garry Marshall;Jennifer Aniston, Kate Hudson, Julia Roberts, Jason Sudeikis;2016;118;5.6;20221;32.46;18
+55;The Dark Knight;Action,Crime,Drama;Christopher Nolan;Christian Bale, Heath Ledger, Aaron Eckhart,Michael Caine;2008;152;9;1791916;533.32;82
+56;Silence;Adventure,Drama,History;Martin Scorsese;Andrew Garfield, Adam Driver, Liam Neeson,Tadanobu Asano;2016;161;7.3;49190;7.08;79
+58;Me Before You;Drama,Romance;Thea Sharrock;Emilia Clarke, Sam Claflin, Janet McTeer, Charles Dance;2016;106;7.4;113322;56.23;51
+59;Their Finest;Comedy,Drama,Romance;Lone Scherfig;Gemma Arterton, Sam Claflin, Bill Nighy, Jack Huston;2016;117;7;3739;3.18;76
+60;Sully;Biography,Drama;Clint Eastwood;Tom Hanks, Aaron Eckhart, Laura Linney, Valerie Mahaffey;2016;96;7.5;137608;125.07;74
+63;The Girl on the Train;Crime,Drama,Mystery;Tate Taylor;Emily Blunt, Haley Bennett, Rebecca Ferguson, Justin Theroux;2016;112;6.5;102177;75.31;48
+64;Fifty Shades of Grey;Drama,Romance,Thriller;Sam Taylor-Johnson;Dakota Johnson, Jamie Dornan, Jennifer Ehle,Eloise Mumford;2015;125;4.1;244474;166.15;46
+65;The Prestige;Drama,Mystery,Sci-Fi;Christopher Nolan;Christian Bale, Hugh Jackman, Scarlett Johansson, Michael Caine;2006;130;8.5;913152;53.08;66
+67;Patriots Day;Drama,History,Thriller;Peter Berg;Mark Wahlberg, Michelle Monaghan, J.K. Simmons, John Goodman;2016;133;7.4;39784;31.86;69
+69;Wakefield;Drama;Robin Swicord;Bryan Cranston, Jennifer Garner, Beverly D'Angelo,Jason O'Mara;2016;106;7.5;291;0.01;61
+70;Deepwater Horizon;Action,Drama,Thriller;Peter Berg;Mark Wahlberg, Kurt Russell, Douglas M. Griffin, James DuMont;2016;107;7.2;89849;61.28;68
+71;The Promise;Drama,History;Terry George;Oscar Isaac, Charlotte Le Bon, Christian Bale, Daniel Giménez Cacho;2016;133;5.9;149791;0;49
+72;Allied;Action,Drama,Romance;Robert Zemeckis;Brad Pitt, Marion Cotillard, Jared Harris, Vincent Ebrahim;2016;124;7.1;78079;40.07;60
+73;A Monster Calls;Drama,Fantasy;J.A. Bayona;Lewis MacDougall, Sigourney Weaver, Felicity Jones,Toby Kebbell;2016;108;7.5;39134;3.73;76
+74;Collateral Beauty;Drama,Romance;David Frankel;Will Smith, Edward Norton, Kate Winslet, Michael Peña;2016;97;6.8;43977;30.98;23
+78;Inglourious Basterds;Adventure,Drama,War;Quentin Tarantino;Brad Pitt, Diane Kruger, Eli Roth,Mélanie Laurent;2009;153;8.3;959065;120.52;69
+82;Captain Fantastic;Comedy,Drama;Matt Ross;Viggo Mortensen, George MacKay, Samantha Isler,Annalise Basso;2016;118;7.9;105081;5.88;72
+84;Gone Girl;Crime,Drama,Mystery;David Fincher;Ben Affleck, Rosamund Pike, Neil Patrick Harris,Tyler Perry;2014;149;8.1;636243;167.74;79
+87;Live by Night;Crime,Drama;Ben Affleck;Ben Affleck, Elle Fanning, Brendan Gleeson, Chris Messina;2016;129;6.4;27869;10.38;49
+89;The Hateful Eight;Crime,Drama,Mystery;Quentin Tarantino;Samuel L. Jackson, Kurt Russell, Jennifer Jason Leigh, Walton Goggins;2015;187;7.8;341170;54.12;68
+90;The Accountant;Action,Crime,Drama;Gavin O'Connor;Ben Affleck, Anna Kendrick, J.K. Simmons, Jon Bernthal;2016;128;7.4;162122;86.2;51
+91;Prisoners;Crime,Drama,Mystery;Denis Villeneuve;Hugh Jackman, Jake Gyllenhaal, Viola Davis,Melissa Leo;2013;153;8.1;431185;60.96;74
+93;The Help;Drama;Tate Taylor;Emma Stone, Viola Davis, Octavia Spencer, Bryce Dallas Howard;2011;146;8.1;342429;169.71;62
+94;War Dogs;Comedy,Crime,Drama;Todd Phillips;Jonah Hill, Miles Teller, Steve Lantz, Gregg Weiner;2016;114;7.1;106463;43.02;57
+97;Kimi no na wa;Animation,Drama,Fantasy;Makoto Shinkai;Ryûnosuke Kamiki, Mone Kamishiraishi, Ryô Narita, Aoi Yuki;2016;106;8.6;34110;4.68;79
+99;Personal Shopper;Drama,Mystery,Thriller;Olivier Assayas;Kristen Stewart, Lars Eidinger, Sigrid Bouaziz,Anders Danielsen Lie;2016;105;6.3;10181;1.29;77
+100;The Departed;Crime,Drama,Thriller;Martin Scorsese;Leonardo DiCaprio, Matt Damon, Jack Nicholson, Mark Wahlberg;2006;151;8.5;937414;132.37;85
+101;Legend;Biography,Crime,Drama;Brian Helgeland;Tom Hardy, Emily Browning, Taron Egerton, Paul Anderson;2015;132;7;108836;1.87;55
+103;The Martian;Adventure,Drama,Sci-Fi;Ridley Scott;Matt Damon, Jessica Chastain, Kristen Wiig, Kate Mara;2015;144;8;556097;228.43;80
+106;Hell or High Water;Crime,Drama,Thriller;David Mackenzie;Chris Pine, Ben Foster, Jeff Bridges, Gil Birmingham;2016;102;7.7;115546;26.86;88
+108;The Legend of Tarzan;Action,Adventure,Drama;David Yates;Alexander Skarsgård, Rory J. Saper, Christian Stevens, Christoph Waltz;2016;110;6.3;117590;126.59;44
+109;All We Had;Drama;Katie Holmes;Eve Lindley, Richard Kind, Mark Consuelos, Katherine Reis;2016;105;5.8;1004;0;48
+110;Ex Machina;Drama,Mystery,Sci-Fi;Alex Garland;Alicia Vikander, Domhnall Gleeson, Oscar Isaac,Sonoya Mizuno;2014;108;7.7;339797;25.44;78
+112;12 Years a Slave;Biography,Drama,History;Steve McQueen;Chiwetel Ejiofor, Michael Kenneth Williams, Michael Fassbender, Brad Pitt;2013;134;8.1;486338;56.67;96
+115;Harry Potter and the Deathly Hallows: Part 2;Adventure,Drama,Fantasy;David Yates;Daniel Radcliffe, Emma Watson, Rupert Grint, Michael Gambon;2011;130;8.1;590595;380.96;87
+118;Dangal;Action,Biography,Drama;Nitesh Tiwari;Aamir Khan, Sakshi Tanwar, Fatima Sana Shaikh,Sanya Malhotra;2016;161;8.8;48969;11.15;52
+119;10 Cloverfield Lane;Drama,Horror,Mystery;Dan Trachtenberg;John Goodman, Mary Elizabeth Winstead, John Gallagher Jr., Douglas M. Griffin;2016;104;7.2;192968;71.9;76
+121;Miss Peregrine's Home for Peculiar Children;Adventure,Drama,Family;Tim Burton;Eva Green, Asa Butterfield, Samuel L. Jackson, Judi Dench;2016;127;6.7;101058;87.24;57
+126;The Jungle Book;Adventure,Drama,Family;Jon Favreau;Neel Sethi, Bill Murray, Ben Kingsley, Idris Elba;2016;106;7.5;198243;364;77
+130;The Revenant;Adventure,Drama,Thriller;Alejandro González Iñárritu;Leonardo DiCaprio, Tom Hardy, Will Poulter, Domhnall Gleeson;2015;156;8;499424;183.64;76
+131;Fences;Drama;Denzel Washington;Denzel Washington, Viola Davis, Stephen Henderson, Jovan Adepo;2016;139;7.3;50953;57.64;79
+132;Into the Woods;Adventure,Comedy,Drama;Rob Marshall;Anna Kendrick, Meryl Streep, Chris Pine, Emily Blunt;2014;125;6;109756;128;69
+133;The Shallows;Drama,Horror,Thriller;Jaume Collet-Serra;Blake Lively, Óscar Jaenada, Angelo Josue Lozano Corzo, Brett Cullen;2016;86;6.4;78328;55.12;59
+134;Whiplash;Drama,Music;Damien Chazelle;Miles Teller, J.K. Simmons, Melissa Benoist, Paul Reiser;2014;107;8.5;477276;13.09;88
+136;The Place Beyond the Pines;Crime,Drama,Thriller;Derek Cianfrance;Ryan Gosling, Bradley Cooper, Eva Mendes,Craig Van Hook;2012;140;7.3;200090;21.38;68
+137;No Country for Old Men;Crime,Drama,Thriller;Ethan Coen;Tommy Lee Jones, Javier Bardem, Josh Brolin, Woody Harrelson;2007;122;8.1;660286;74.27;91
+138;The Great Gatsby;Drama,Romance;Baz Luhrmann;Leonardo DiCaprio, Carey Mulligan, Joel Edgerton,Tobey Maguire;2013;143;7.3;386102;144.81;55
+143;The Big Short;Biography,Comedy,Drama;Adam McKay;Christian Bale, Steve Carell, Ryan Gosling, Brad Pitt;2015;130;7.8;246360;70.24;81
+144;Room;Drama;Lenny Abrahamson;Brie Larson, Jacob Tremblay, Sean Bridgers,Wendy Crewson;2015;118;8.2;224132;14.68;86
+145;Django Unchained;Drama,Western;Quentin Tarantino;Jamie Foxx, Christoph Waltz, Leonardo DiCaprio,Kerry Washington;2012;165;8.4;1039115;162.8;81
+146;Ah-ga-ssi;Drama,Mystery,Romance;Chan-wook Park;Min-hee Kim, Jung-woo Ha, Jin-woong Jo, So-ri Moon;2016;144;8.1;33418;2.01;84
+147;The Edge of Seventeen;Comedy,Drama;Kelly Fremon Craig;Hailee Steinfeld, Haley Lu Richardson, Blake Jenner, Kyra Sedgwick;2016;104;7.4;47694;14.26;77
+148;Watchmen;Action,Drama,Mystery;Zack Snyder;Jackie Earle Haley, Patrick Wilson, Carla Gugino,Malin Akerman;2009;162;7.6;410249;107.5;56
+153;White Girl;Drama;Elizabeth Wood;Morgan Saylor, Brian Marc, Justin Bartha, Adrian Martinez;2016;88;5.8;4299;0.2;65
+154;Sicario;Action,Crime,Drama;Denis Villeneuve;Emily Blunt, Josh Brolin, Benicio Del Toro, Jon Bernthal;2015;121;7.6;243230;46.88;82
+155;Twin Peaks: The Missing Pieces;Drama,Horror,Mystery;David Lynch;Chris Isaak, Kiefer Sutherland, C.H. Evans, Sandra Kinder;2014;91;8.1;1973;0;41
+158;Crazy, Stupid, Love.;Comedy,Drama,Romance;Glenn Ficarra;Steve Carell, Ryan Gosling, Julianne Moore, Emma Stone;2011;118;7.4;396714;84.24;68
+166;Twilight;Drama,Fantasy,Romance;Catherine Hardwicke;Kristen Stewart, Robert Pattinson, Billy Burke,Sarah Clarke;2008;122;5.2;361449;191.45;56
+168;Woman in Gold;Biography,Drama,History;Simon Curtis;Helen Mirren, Ryan Reynolds, Daniel Brühl, Katie Holmes;2015;109;7.3;39723;33.31;51
+169;13 Hours;Action,Drama,History;Michael Bay;John Krasinski, Pablo Schreiber, James Badge Dale,David Denman;2016;144;7.3;76935;52.82;48
+171;Nightcrawler;Crime,Drama,Thriller;Dan Gilroy;Jake Gyllenhaal, Rene Russo, Bill Paxton, Riz Ahmed;2014;118;7.9;332476;32.28;76
+174;Her;Drama,Romance,Sci-Fi;Spike Jonze;Joaquin Phoenix, Amy Adams, Scarlett Johansson,Rooney Mara;2013;126;8;390531;25.56;90
+177;Dawn of the Planet of the Apes;Action,Adventure,Drama;Matt Reeves;Gary Oldman, Keri Russell, Andy Serkis, Kodi Smit-McPhee;2014;130;7.6;337777;208.54;79
+183;Cinderella;Drama,Family,Fantasy;Kenneth Branagh;Lily James, Cate Blanchett, Richard Madden,Helena Bonham Carter;2015;105;7;117018;201.15;67
+185;Forushande;Drama,Thriller;Asghar Farhadi;Taraneh Alidoosti, Shahab Hosseini, Babak Karimi,Farid Sajjadi Hosseini;2016;124;8;22389;3.4;85
+186;Love;Drama,Romance;Gaspar Noé;Aomi Muyock, Karl Glusman, Klara Kristin, Juan Saavedra;2015;135;6;24003;0;51
+187;Billy Lynn's Long Halftime Walk;Drama,War;Ang Lee;Joe Alwyn, Garrett Hedlund, Arturo Castro, Mason Lee;2016;113;6.3;11944;1.72;53
+188;Crimson Peak;Drama,Fantasy,Horror;Guillermo del Toro;Mia Wasikowska, Jessica Chastain, Tom Hiddleston, Charlie Hunnam;2015;119;6.6;97454;31.06;66
+189;Drive;Crime,Drama;Nicolas Winding Refn;Ryan Gosling, Carey Mulligan, Bryan Cranston, Albert Brooks;2011;100;7.8;461509;35.05;78
+190;Trainwreck;Comedy,Drama,Romance;Judd Apatow;Amy Schumer, Bill Hader, Brie Larson, Colin Quinn;2015;125;6.3;106364;110.01;75
+191;The Light Between Oceans;Drama,Romance;Derek Cianfrance;Michael Fassbender, Alicia Vikander, Rachel Weisz, Florence Clery;2016;133;7.2;27382;12.53;60
+192;Below Her Mouth;Drama;April Mullen;Erika Linder, Natalie Krill, Sebastian Pigott, Mayko Nguyen;2016;94;5.6;1445;0;42
+193;Spotlight;Crime,Drama,History;Tom McCarthy;Mark Ruffalo, Michael Keaton, Rachel McAdams, Liev Schreiber;2015;128;8.1;268282;44.99;93
+195;Warrior;Action,Drama,Sport;Gavin O'Connor;Tom Hardy, Nick Nolte, Joel Edgerton, Jennifer Morrison;2011;140;8.2;355722;13.65;71
+197;Hacker;Crime,Drama,Thriller;Akan Satayev;Callan McAuliffe, Lorraine Nicholson, Daniel Eric Gold, Clifton Collins Jr.;2016;95;6.3;3799;0;54
+198;Into the Wild;Adventure,Biography,Drama;Sean Penn;Emile Hirsch, Vince Vaughn, Catherine Keener, Marcia Gay Harden;2007;148;8.1;459304;18.35;73
+199;The Imitation Game;Biography,Drama,Thriller;Morten Tyldum;Benedict Cumberbatch, Keira Knightley, Matthew Goode, Allen Leech;2014;114;8.1;532353;91.12;73
+202;A Cure for Wellness;Drama,Fantasy,Horror;Gore Verbinski;Dane DeHaan, Jason Isaacs, Mia Goth, Ivo Nandi;2016;146;6.5;12193;8.1;47
+203;Snowden;Biography,Drama,Thriller;Oliver Stone;Joseph Gordon-Levitt, Shailene Woodley, Melissa Leo,Zachary Quinto;2016;134;7.3;79855;21.48;58
+207;Raw (II);Drama,Horror;Julia Ducournau;Garance Marillier, Ella Rumpf, Rabah Nait Oufella,Laurent Lucas;2016;99;7.5;5435;0.51;81
+208;Paterson;Comedy,Drama,Romance;Jim Jarmusch;Adam Driver, Golshifteh Farahani, Nellie, Rizwan Manji;2016;118;7.5;26089;2.14;90
+210;The Girl with All the Gifts;Drama,Horror,Thriller;Colm McCarthy;Gemma Arterton, Glenn Close, Dominique Tipper,Paddy Considine;2016;111;6.7;23713;0;67
+211;San Andreas;Action,Adventure,Drama;Brad Peyton;Dwayne Johnson, Carla Gugino, Alexandra Daddario,Colton Haynes;2015;114;6.1;161396;155.18;43
+212;Spring Breakers;Drama;Harmony Korine;Vanessa Hudgens, Selena Gomez, Ashley Benson,Rachel Korine;2012;94;5.3;114290;14.12;63
+214;Old Boy;Action,Drama,Mystery;Spike Lee;Josh Brolin, Elizabeth Olsen, Samuel L. Jackson, Sharlto Copley;2013;104;5.8;54679;0;49
+219;A Dark Song;Drama,Horror;Liam Gavin;Mark Huberman, Susan Loughnane, Steve Oram,Catherine Walker;2016;100;6.1;1703;0;67
+224;The Girl with the Dragon Tattoo;Crime,Drama,Mystery;David Fincher;Daniel Craig, Rooney Mara, Christopher Plummer,Stellan Skarsgård;2011;158;7.8;348551;102.52;71
+226;American Honey;Drama;Andrea Arnold;Sasha Lane, Shia LaBeouf, Riley Keough, McCaul Lombardi;2016;163;7;19660;0.66;79
+227;The Lobster;Comedy,Drama,Romance;Yorgos Lanthimos;Colin Farrell, Rachel Weisz, Jessica Barden,Olivia Colman;2015;119;7.1;121313;8.7;82
+231;Pan's Labyrinth;Drama,Fantasy,War;Guillermo del Toro;Ivana Baquero, Ariadna Gil, Sergi López,Maribel Verdú;2006;118;8.2;498879;37.62;98
+232;A Kind of Murder;Crime,Drama,Thriller;Andy Goddard;Patrick Wilson, Jessica Biel, Haley Bennett, Vincent Kartheiser;2016;95;5.2;3305;0;50
+233;Apocalypto;Action,Adventure,Drama;Mel Gibson;Gerardo Taracena, Raoul Max Trujillo, Dalia Hernández,Rudy Youngblood;2006;139;7.8;247926;50.86;68
+235;The Huntsman: Winter's War;Action,Adventure,Drama;Cedric Nicolas-Troyan;Chris Hemsworth, Jessica Chastain, Charlize Theron, Emily Blunt;2016;114;6.1;66766;47.95;35
+236;The Perks of Being a Wallflower;Drama,Romance;Stephen Chbosky;Logan Lerman, Emma Watson, Ezra Miller, Paul Rudd;2012;102;8;377336;17.74;67
+237;Jackie;Biography,Drama,History;Pablo Larraín;Natalie Portman, Peter Sarsgaard, Greta Gerwig,Billy Crudup;2016;100;6.8;41446;13.96;81
+238;The Disappointments Room;Drama,Horror,Thriller;D.J. Caruso;Kate Beckinsale, Mel Raido, Duncan Joiner, Lucas Till;2016;85;3.9;4895;2.41;31
+239;The Grand Budapest Hotel;Adventure,Comedy,Drama;Wes Anderson;Ralph Fiennes, F. Murray Abraham, Mathieu Amalric,Adrien Brody;2014;99;8.1;530881;59.07;88
+241;Fury;Action,Drama,War;David Ayer;Brad Pitt, Shia LaBeouf, Logan Lerman, Michael Peña;2014;134;7.6;332234;85.71;64
+246;Les Misérables;Drama,Musical,Romance;Tom Hooper;Hugh Jackman, Russell Crowe, Anne Hathaway,Amanda Seyfried;2012;158;7.6;257426;148.78;63
+247;Children of Men;Drama,Sci-Fi,Thriller;Alfonso Cuarón;Julianne Moore, Clive Owen, Chiwetel Ejiofor,Michael Caine;2006;109;7.9;382910;35.29;84
+248;20th Century Women;Comedy,Drama;Mike Mills;Annette Bening, Elle Fanning, Greta Gerwig, Billy Crudup;2016;119;7.4;14708;5.66;83
+250;The Intouchables;Biography,Comedy,Drama;Olivier Nakache;François Cluzet, Omar Sy, Anne Le Ny, Audrey Fleurot;2011;112;8.6;557965;13.18;57
+251;Bonjour Anne;Comedy,Drama,Romance;Eleanor Coppola;Diane Lane, Alec Baldwin, Arnaud Viard, Linda Gegusch;2016;92;4.9;178;0.32;50
+252;Kynodontas;Drama,Thriller;Yorgos Lanthimos;Christos Stergioglou, Michele Valley, Angeliki Papoulia, Hristos Passalis;2009;94;7.3;50946;0.11;73
+253;Straight Outta Compton;Biography,Drama,History;F. Gary Gray;O'Shea Jackson Jr., Corey Hawkins, Jason Mitchell,Neil Brown Jr.;2015;147;7.9;139831;161.03;72
+258;Rise of the Planet of the Apes;Action,Drama,Sci-Fi;Rupert Wyatt;James Franco, Andy Serkis, Freida Pinto, Karin Konoval;2011;105;7.6;422290;176.74;68
+260;Norman: The Moderate Rise and Tragic Fall of a New York Fixer;Drama,Thriller;Joseph Cedar;Richard Gere, Lior Ashkenazi, Michael Sheen,Charlotte Gainsbourg;2016;118;7.1;664;2.27;76
+261;Birdman or (The Unexpected Virtue of Ignorance);Comedy,Drama,Romance;Alejandro González Iñárritu;Michael Keaton, Zach Galifianakis,Edward Norton, Andrea Riseborough;2014;119;7.8;440299;42.34;88
+262;Black Swan;Drama,Thriller;Darren Aronofsky;Natalie Portman, Mila Kunis, Vincent Cassel,Winona Ryder;2010;108;8;581518;106.95;79
+263;Dear White People;Comedy,Drama;Justin Simien;Tyler James Williams, Tessa Thompson, Kyle Gallner,Teyonah Parris;2014;108;6.2;21715;4.4;79
+264;Nymphomaniac: Vol. I;Drama;Lars von Trier;Charlotte Gainsbourg, Stellan Skarsgård, Stacy Martin, Shia LaBeouf;2013;117;7;90556;0.79;64
+266;Knock Knock;Drama,Horror,Thriller;Eli Roth;Keanu Reeves, Lorenza Izzo, Ana de Armas, Aaron Burns;2015;99;4.9;53441;0.03;53
+268;Cloud Atlas;Drama,Sci-Fi;Tom Tykwer;Tom Hanks, Halle Berry, Hugh Grant, Hugo Weaving;2012;172;7.5;298651;27.1;55
+274;Sing Street;Comedy,Drama,Music;John Carney;Ferdia Walsh-Peelo, Aidan Gillen, Maria Doyle Kennedy, Jack Reynor;2016;106;8;52144;3.23;79
+278;Zodiac;Crime,Drama,History;David Fincher;Jake Gyllenhaal, Robert Downey Jr., Mark Ruffalo,Anthony Edwards;2007;157;7.7;329683;33.05;78
+284;The Danish Girl;Biography,Drama,Romance;Tom Hooper;Eddie Redmayne, Alicia Vikander, Amber Heard, Ben Whishaw;2015;119;7;110773;12.71;66
+291;Busanhaeng;Action,Drama,Horror;Sang-ho Yeon;Yoo Gong, Soo-an Kim, Yu-mi Jung, Dong-seok Ma;2016;118;7.5;58782;2.13;72
+294;The Exception;Drama;David Leveaux;Lily James, Jai Courtney, Christopher Plummer, Loïs van Wijk;2016;107;7.7;96;0;52
+296;The Choice;Drama,Romance;Ross Katz;Benjamin Walker, Teresa Palmer, Alexandra Daddario,Maggie Grace;2016;111;6.6;20514;18.71;26
+298;The Devil Wears Prada;Comedy,Drama;David Frankel;Anne Hathaway, Meryl Streep, Adrian Grenier, Emily Blunt;2006;109;6.8;302268;124.73;62
+299;The Infiltrator;Biography,Crime,Drama;Brad Furman;Bryan Cranston, John Leguizamo, Diane Kruger, Amy Ryan;2016;127;7.1;43929;15.43;66
+300;There Will Be Blood;Drama,History;Paul Thomas Anderson;Daniel Day-Lewis, Paul Dano, Ciarán Hinds,Martin Stringer;2007;158;8.1;400682;40.22;92
+302;Lone Survivor;Action,Biography,Drama;Peter Berg;Mark Wahlberg, Taylor Kitsch, Emile Hirsch, Ben Foster;2013;121;7.5;218996;125.07;60
+306;Inherent Vice;Comedy,Crime,Drama;Paul Thomas Anderson;Joaquin Phoenix, Josh Brolin, Owen Wilson,Katherine Waterston;2014;148;6.7;69509;8.09;81
+308;Vincent N Roxxy;Crime,Drama,Thriller;Gary Michael Schultz;Emile Hirsch, Zoë Kravitz, Zoey Deutch,Emory Cohen;2016;110;5.5;403;0;43
+311;The Blind Side;Biography,Drama,Sport;John Lee Hancock;Quinton Aaron, Sandra Bullock, Tim McGraw,Jae Head;2009;129;7.7;237221;255.95;53
+312;La vie d'Adèle;Drama,Romance;Abdellatif Kechiche;Léa Seydoux, Adèle Exarchopoulos, Salim Kechiouche, Aurélien Recoing;2013;180;7.8;103150;2.2;88
+313;The Babadook;Drama,Horror;Jennifer Kent;Essie Davis, Noah Wiseman, Daniel Henshall, Hayley McElhinney;2014;93;6.8;132580;0.92;86
+316;Snowpiercer;Action,Drama,Sci-Fi;Bong Joon Ho;Chris Evans, Jamie Bell, Tilda Swinton, Ed Harris;2013;126;7;199048;4.56;84
+321;Step Up;Crime,Drama,Music;Anne Fletcher;Channing Tatum, Jenna Dewan Tatum, Damaine Radcliff, De'Shawn Washington;2006;104;6.5;95960;65.27;48
+322;Lovesong;Drama;So Yong Kim;Riley Keough, Jena Malone, Jessie Ok Gray, Cary Joji Fukunaga;2016;84;6.4;616;0.01;74
+325;The Social Network;Biography,Drama;David Fincher;Jesse Eisenberg, Andrew Garfield, Justin Timberlake,Rooney Mara;2010;120;7.7;510100;96.92;95
+327;Victor Frankenstein;Drama,Horror,Sci-Fi;Paul McGuigan;Daniel Radcliffe, James McAvoy, Jessica Brown Findlay, Andrew Scott;2015;110;6;37975;5.77;36
+328;A Street Cat Named Bob;Biography,Comedy,Drama;Roger Spottiswoode;Luke Treadaway, Bob the Cat, Ruta Gedmintas, Joanne Froggatt;2016;103;7.4;12643;0.04;54
+330;Blackhat;Crime,Drama,Mystery;Michael Mann;Chris Hemsworth, Viola Davis, Wei Tang, Leehom Wang;2015;133;5.4;43085;7.1;51
+332;American Sniper;Action,Biography,Drama;Clint Eastwood;Bradley Cooper, Sienna Miller, Kyle Gallner, Cole Konis;2014;133;7.3;353305;350.12;72
+333;Dallas Buyers Club;Biography,Drama;Jean-Marc Vallée;Matthew McConaughey, Jennifer Garner, Jared Leto, Steve Zahn;2013;117;8;352801;27.3;84
+334;Lincoln;Biography,Drama,History;Steven Spielberg;Daniel Day-Lewis, Sally Field, David Strathairn,Joseph Gordon-Levitt;2012;150;7.4;207497;182.2;86
+335;Rush;Action,Biography,Drama;Ron Howard;Daniel Brühl, Chris Hemsworth, Olivia Wilde,Alexandra Maria Lara;2013;123;8.1;339722;26.9;75
+336;Before I Wake;Drama,Fantasy,Horror;Mike Flanagan;Kate Bosworth, Thomas Jane, Jacob Tremblay,Annabeth Gish;2016;97;6.1;18201;0;68
+337;Silver Linings Playbook;Comedy,Drama,Romance;David O. Russell;Bradley Cooper, Jennifer Lawrence, Robert De Niro, Jacki Weaver;2012;122;7.8;564364;132.09;81
+338;Tracktown;Drama,Sport;Alexi Pappas;Alexi Pappas, Chase Offerle, Rachel Dratch, Andy Buckley;2016;88;5.9;115;0;64
+339;The Fault in Our Stars;Drama,Romance;Josh Boone;Shailene Woodley, Ansel Elgort, Nat Wolff, Laura Dern;2014;126;7.8;271301;124.87;69
+342;Looper;Action,Crime,Drama;Rian Johnson;Joseph Gordon-Levitt, Bruce Willis, Emily Blunt, Paul Dano;2012;119;7.4;452369;66.47;84
+343;White House Down;Action,Drama,Thriller;Roland Emmerich;Channing Tatum, Jamie Foxx, Maggie Gyllenhaal,Jason Clarke;2013;131;6.4;173320;73.1;52
+348;American Hustle;Crime,Drama;David O. Russell;Christian Bale, Amy Adams, Bradley Cooper,Jennifer Lawrence;2013;138;7.3;379088;150.12;90
+351;Lady Macbeth;Drama;William Oldroyd;Florence Pugh, Christopher Fairbank, Cosmo Jarvis, Naomi Ackie;2016;89;7.3;1396;0;83
+352;Joy;Drama;David O. Russell;Jennifer Lawrence, Robert De Niro, Bradley Cooper, Edgar Ramírez;2015;124;6.6;97679;56.44;56
+353;The Dressmaker;Comedy,Drama;Jocelyn Moorhouse;Kate Winslet, Judy Davis, Liam Hemsworth,Hugo Weaving;2015;119;7.1;33352;2.02;47
+354;Cafe Society;Comedy,Drama,Romance;Woody Allen;Jesse Eisenberg, Kristen Stewart, Steve Carell, Blake Lively;2016;96;6.7;45579;11.08;64
+357;Demain tout commence;Comedy,Drama;Hugo Gélin;Omar Sy, Clémence Poésy, Antoine Bertrand, Ashley Walters;2016;118;7.4;5496;0;52
+358;The Theory of Everything;Biography,Drama,Romance;James Marsh;Eddie Redmayne, Felicity Jones, Tom Prior, Sophie Perry;2014;123;7.7;299718;35.89;72
+360;About Time;Comedy,Drama,Fantasy;Richard Curtis;Domhnall Gleeson, Rachel McAdams, Bill Nighy,Lydia Wilson;2013;123;7.8;221600;15.29;55
+366;Slumdog Millionaire;Drama;Danny Boyle;Dev Patel, Freida Pinto, Saurabh Shukla, Anil Kapoor;2008;120;8;677044;141.32;86
+367;The Twilight Saga: Breaking Dawn - Part 2;Adventure,Drama,Fantasy;Bill Condon;Kristen Stewart, Robert Pattinson, Taylor Lautner, Peter Facinelli;2012;115;5.5;194329;292.3;52
+368;American Wrestler: The Wizard;Drama,Sport;Alex Ranarivelo;William Fichtner, Jon Voight, Lia Marie Johnson,Gabriel Basso;2016;117;6.9;286;0;52
+370;Ben-Hur;Action,Adventure,Drama;Timur Bekmambetov;Jack Huston, Toby Kebbell, Rodrigo Santoro,Nazanin Boniadi;2016;123;5.7;28326;26.38;38
+371;Sleight;Action,Drama,Sci-Fi;J.D. Dillard;Jacob Latimore, Seychelle Gabriel, Dulé Hill, Storm Reid;2016;89;6;702;3.85;62
+373;Criminal;Action,Crime,Drama;Ariel Vromen;Kevin Costner, Ryan Reynolds, Gal Gadot, Gary Oldman;2016;113;6.3;38430;14.27;36
+375;Florence Foster Jenkins;Biography,Comedy,Drama;Stephen Frears;Meryl Streep, Hugh Grant, Simon Helberg, Rebecca Ferguson;2016;111;6.9;31776;27.37;71
+377;Black Mass;Biography,Crime,Drama;Scott Cooper;Johnny Depp, Benedict Cumberbatch, Dakota Johnson, Joel Edgerton;2015;123;6.9;135706;62.56;68
+378;Creed;Drama,Sport;Ryan Coogler;Michael B. Jordan, Sylvester Stallone, Tessa Thompson, Phylicia Rashad;2015;133;7.6;175673;109.71;82
+379;Swiss Army Man;Adventure,Comedy,Drama;Dan Kwan;Paul Dano, Daniel Radcliffe, Mary Elizabeth Winstead, Antonia Ribero;2016;97;7.1;61812;4.21;64
+382;Southpaw;Drama,Sport;Antoine Fuqua;Jake Gyllenhaal, Rachel McAdams, Oona Laurence,Forest Whitaker;2015;124;7.4;169083;52.42;57
+384;Bridge of Spies;Drama,History,Thriller;Steven Spielberg;Tom Hanks, Mark Rylance, Alan Alda, Amy Ryan;2015;142;7.6;217938;72.31;81
+386;Everest;Action,Adventure,Drama;Baltasar Kormákur;Jason Clarke, Ang Phula Sherpa, Thomas M. Wright, Martin Henderson;2015;121;7.1;154647;43.25;64
+388;Robin Hood;Action,Adventure,Drama;Ridley Scott;Russell Crowe, Cate Blanchett, Matthew Macfadyen,Max von Sydow;2010;140;6.7;221117;105.22;53
+392;The Gunman;Action,Crime,Drama;Pierre Morel;Sean Penn, Idris Elba, Jasmine Trinca, Javier Bardem;2015;115;5.8;31194;10.64;39
+393;Steve Jobs;Biography,Drama;Danny Boyle;Michael Fassbender, Kate Winslet, Seth Rogen, Jeff Daniels;2015;122;7.2;116112;17.75;82
+396;The Age of Adaline;Drama,Fantasy,Romance;Lee Toland Krieger;Blake Lively, Michiel Huisman, Harrison Ford,Kathy Baker;2015;112;7.2;112288;42.48;51
+400;Magic Mike;Comedy,Drama;Steven Soderbergh;Channing Tatum, Alex Pettyfer, Olivia Munn,Matthew McConaughey;2012;110;6.1;113686;113.71;72
+405;The Best of Me;Drama,Romance;Michael Hoffman;James Marsden, Michelle Monaghan, Luke Bracey,Liana Liberato;2014;118;6.7;49041;26.76;29
+406;The Invitation;Drama,Mystery,Thriller;Karyn Kusama;Logan Marshall-Green, Emayatzy Corinealdi, Michiel Huisman, Tammy Blanchard;2015;100;6.7;40529;0.23;74
+407;Zero Dark Thirty;Drama,History,Thriller;Kathryn Bigelow;Jessica Chastain, Joel Edgerton, Chris Pratt, Mark Strong;2012;157;7.4;226661;95.72;95
+414;Elle;Crime,Drama,Thriller;Paul Verhoeven;Isabelle Huppert, Laurent Lafitte, Anne Consigny,Charles Berling;2016;130;7.2;35417;0;89
+416;Tusk;Comedy,Drama,Horror;Kevin Smith;Justin Long, Michael Parks, Haley Joel Osment,Genesis Rodriguez;2014;102;5.4;34546;1.82;55
+417;The Headhunter's Calling;Drama;Mark Williams;Alison Brie, Gerard Butler, Willem Dafoe, Gretchen Mol;2016;108;6.9;164;0;85
+418;Atonement;Drama,Mystery,Romance;Joe Wright;Keira Knightley, James McAvoy, Brenda Blethyn,Saoirse Ronan;2007;123;7.8;202890;50.92;85
+420;Shame;Drama;Steve McQueen;Michael Fassbender, Carey Mulligan, James Badge Dale, Lucy Walters;2011;101;7.2;155010;4;72
+421;Hanna;Action,Drama,Thriller;Joe Wright;Saoirse Ronan, Cate Blanchett, Eric Bana, Vicky Krieps;2011;111;6.8;164208;40.25;65
+422;The Babysitters;Drama;David Ross;Lauren Birkell, Paul Borghese, Chira Cassel, Anthony Cirillo;2007;88;5.7;8914;0.04;35
+424;300: Rise of an Empire;Action,Drama,Fantasy;Noam Murro;Sullivan Stapleton, Eva Green, Lena Headey, Hans Matheson;2014;102;6.2;237887;106.37;48
+425;London Has Fallen;Action,Crime,Drama;Babak Najafi;Gerard Butler, Aaron Eckhart, Morgan Freeman,Angela Bassett;2016;99;5.9;100702;62.4;28
+426;The Curious Case of Benjamin Button;Drama,Fantasy,Romance;David Fincher;Brad Pitt, Cate Blanchett, Tilda Swinton, Julia Ormond;2008;166;7.8;485075;127.49;70
+431;3 Idiots;Comedy,Drama;Rajkumar Hirani;Aamir Khan, Madhavan, Mona Singh, Sharman Joshi;2009;170;8.4;238789;6.52;67
+435;Let Me Make You a Martyr;Action,Crime,Drama;Corey Asraf;Marilyn Manson, Mark Boone Junior, Sam Quartin, Niko Nicotera;2016;102;6.4;223;0;56
+436;Filth;Comedy,Crime,Drama;Jon S. Baird;James McAvoy, Jamie Bell, Eddie Marsan, Imogen Poots;2013;97;7.1;81301;0.03;56
+437;The Longest Ride;Drama,Romance;George Tillman Jr.;Scott Eastwood, Britt Robertson, Alan Alda, Jack Huston;2015;123;7.1;58421;37.43;33
+438;The imposible;Drama,Thriller;J.A. Bayona;Naomi Watts, Ewan McGregor, Tom Holland, Oaklee Pendergast;2012;114;7.6;156189;19;73
+442;Brooklyn;Drama,Romance;John Crowley;Saoirse Ronan, Emory Cohen, Domhnall Gleeson,Jim Broadbent;2015;117;7.5;94977;38.32;87
+444;Blue Valentine;Drama,Romance;Derek Cianfrance;Ryan Gosling, Michelle Williams, John Doman,Faith Wladyka;2010;112;7.4;151409;9.7;81
+448;Hunt for the Wilderpeople;Adventure,Comedy,Drama;Taika Waititi;Sam Neill, Julian Dennison, Rima Te Wiata, Rachel House;2016;101;7.9;52331;5.2;81
+450;Carrie;Drama,Horror;Kimberly Peirce;Chloë Grace Moretz, Julianne Moore, Gabriella Wilde, Portia Doubleday;2013;100;5.9;113272;35.27;53
+452;Demolition;Comedy,Drama;Jean-Marc Vallée;Jake Gyllenhaal, Naomi Watts, Chris Cooper,Judah Lewis;2015;101;7;58720;1.82;49
+456;Jagten;Drama;Thomas Vinterberg;Mads Mikkelsen, Thomas Bo Larsen, Annika Wedderkopp, Lasse Fogelstrøm;2012;115;8.3;192263;0.61;76
+457;The Proposal;Comedy,Drama,Romance;Anne Fletcher;Sandra Bullock, Ryan Reynolds, Mary Steenburgen,Craig T. Nelson;2009;108;6.7;241709;163.95;48
+460;Revolutionary Road;Drama,Romance;Sam Mendes;Leonardo DiCaprio, Kate Winslet, Christopher Fitzgerald, Jonathan Roumie;2008;119;7.3;159736;22.88;69
+461;The Town;Crime,Drama,Thriller;Ben Affleck;Ben Affleck, Rebecca Hall, Jon Hamm, Jeremy Renner;2010;125;7.6;294553;92.17;74
+463;Denial;Biography,Drama;Mick Jackson;Rachel Weisz, Tom Wilkinson, Timothy Spall, Andrew Scott;2016;109;6.6;8229;4.07;63
+464;Predestination;Drama,Mystery,Sci-Fi;Michael Spierig;Ethan Hawke, Sarah Snook, Noah Taylor, Madeleine West;2014;97;7.5;187760;0;69
+471;American Gangster;Biography,Crime,Drama;Ridley Scott;Denzel Washington, Russell Crowe, Chiwetel Ejiofor,Josh Brolin;2007;157;7.8;337835;130.13;76
+472;Marie Antoinette;Biography,Drama,History;Sofia Coppola;Kirsten Dunst, Jason Schwartzman, Rip Torn, Judy Davis;2006;123;6.4;83941;15.96;65
+475;Argo;Biography,Drama,History;Ben Affleck;Ben Affleck, Bryan Cranston, John Goodman, Alan Arkin;2012;120;7.7;481274;136.02;86
+476;Eddie the Eagle;Biography,Comedy,Drama;Dexter Fletcher;Taron Egerton, Hugh Jackman, Tom Costello, Jo Hartley;2016;106;7.4;56332;15.79;54
+477;The Lives of Others;Drama,Thriller;Florian Henckel von Donnersmarck;Ulrich Mühe, Martina Gedeck,Sebastian Koch, Ulrich Tukur;2006;137;8.5;278103;11.28;89
+479;Paint It Black;Drama;Amber Tamblyn;Alia Shawkat, Nancy Kwan, Annabelle Attanasio,Alfred Molina;2016;96;8.3;61;0;71
+480;Macbeth;Drama,War;Justin Kurzel;Michael Fassbender, Marion Cotillard, Jack Madigan,Frank Madigan;2015;113;6.7;41642;0;71
+481;Forgetting Sarah Marshall;Comedy,Drama,Romance;Nicholas Stoller;Kristen Bell, Jason Segel, Paul Rudd, Mila Kunis;2008;111;7.2;226619;62.88;67
+482;The Giver;Drama,Romance,Sci-Fi;Phillip Noyce;Brenton Thwaites, Jeff Bridges, Meryl Streep, Taylor Swift;2014;97;6.5;93799;45.09;47
+483;Triple 9;Action,Crime,Drama;John Hillcoat;Casey Affleck, Chiwetel Ejiofor, Anthony Mackie,Aaron Paul;2016;115;6.3;48400;12.63;52
+484;Perfetti sconosciuti;Comedy,Drama;Paolo Genovese;Giuseppe Battiston, Anna Foglietta, Marco Giallini,Edoardo Leo;2016;97;7.7;17584;0;43
+486;Moonrise Kingdom;Adventure,Comedy,Drama;Wes Anderson;Jared Gilman, Kara Hayward, Bruce Willis, Bill Murray;2012;94;7.8;254446;45.51;84
+487;Hairspray;Comedy,Drama,Family;Adam Shankman;John Travolta, Queen Latifah, Nikki Blonsky,Michelle Pfeiffer;2007;117;6.7;102954;118.82;81
+488;Safe Haven;Drama,Romance,Thriller;Lasse Hallström;Julianne Hough, Josh Duhamel, Cobie Smulders,David Lyons;2013;115;6.7;84765;71.35;34
+489;Focus;Comedy,Crime,Drama;Glenn Ficarra;Will Smith, Margot Robbie, Rodrigo Santoro, Adrian Martinez;2015;105;6.6;166489;53.85;56
+491;Stake Land;Drama,Horror,Sci-Fi;Jim Mickle;Connor Paolo, Nick Damici, Kelly McGillis, Gregory Jones;2010;98;6.5;36091;0.02;66
+492;The Book of Eli;Action,Adventure,Drama;Albert Hughes;Denzel Washington, Mila Kunis, Ray Stevenson, Gary Oldman;2010;118;6.9;241359;94.82;53
+495;Under the Skin;Drama,Horror,Sci-Fi;Jonathan Glazer;Scarlett Johansson, Jeremy McWilliams, Lynsey Taylor Mackay, Dougie McConnell;2013;108;6.3;94707;2.61;78
+496;I Am Legend;Drama,Horror,Sci-Fi;Francis Lawrence;Will Smith, Alice Braga, Charlie Tahan, Salli Richardson-Whitfield;2007;101;7.2;565721;256.39;65
+499;Law Abiding Citizen;Crime,Drama,Thriller;F. Gary Gray;Gerard Butler, Jamie Foxx, Leslie Bibb, Colm Meaney;2009;109;7.4;228339;73.34;34
+502;Carol;Drama,Romance;Todd Haynes;Cate Blanchett, Rooney Mara, Sarah Paulson, Kyle Chandler;2015;118;7.2;77995;0.25;95
+503;Imperium;Crime,Drama,Thriller;Daniel Ragussis;Daniel Radcliffe, Toni Collette, Tracy Letts, Sam Trammell;2016;109;6.5;27428;0;68
+504;Youth;Comedy,Drama,Music;Paolo Sorrentino;Michael Caine, Harvey Keitel, Rachel Weisz, Jane Fonda;2015;124;7.3;52636;2.7;64
+505;Mr. Nobody;Drama,Fantasy,Romance;Jaco Van Dormael;Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham;2009;141;7.9;166872;0;63
+506;City of Tiny Lights;Crime,Drama,Thriller;Pete Travis;Riz Ahmed, Billie Piper, James Floyd, Cush Jumbo;2016;110;5.7;291;0;54
+507;Savages;Crime,Drama,Thriller;Oliver Stone;Aaron Taylor-Johnson, Taylor Kitsch, Blake Lively,Benicio Del Toro;2012;131;6.5;107960;47.31;59
+508;(500) Days of Summer;Comedy,Drama,Romance;Marc Webb;Zooey Deschanel, Joseph Gordon-Levitt, Geoffrey Arend, Chloë Grace Moretz;2009;95;7.7;398972;32.39;76
+510;Gravity;Drama,Sci-Fi,Thriller;Alfonso Cuarón;Sandra Bullock, George Clooney, Ed Harris, Orto Ignatiussen;2013;91;7.8;622089;274.08;96
+511;The Boy in the Striped Pyjamas;Drama,War;Mark Herman;Asa Butterfield, David Thewlis, Rupert Friend, Zac Mattoon O'Brien;2008;94;7.8;144614;9.03;55
+512;Shooter;Action,Crime,Drama;Antoine Fuqua;Mark Wahlberg, Michael Peña, Rhona Mitra, Danny Glover;2007;124;7.2;267820;46.98;53
+514;Bone Tomahawk;Adventure,Drama,Horror;S. Craig Zahler;Kurt Russell, Patrick Wilson, Matthew Fox, Richard Jenkins;2015;132;7.1;47289;66.01;72
+515;Magic Mike XXL;Comedy,Drama,Music;Gregory Jacobs;Channing Tatum, Joe Manganiello, Matt Bomer,Adam Rodriguez;2015;115;5.7;42506;0;60
+516;Easy A;Comedy,Drama,Romance;Will Gluck;Emma Stone, Amanda Bynes, Penn Badgley, Dan Byrd;2010;92;7.1;294950;58.4;72
+517;Exodus: Gods and Kings;Action,Adventure,Drama;Ridley Scott;Christian Bale, Joel Edgerton, Ben Kingsley, Sigourney Weaver;2014;150;6;137299;65.01;52
+518;Chappie;Action,Crime,Drama;Neill Blomkamp;Sharlto Copley, Dev Patel, Hugh Jackman,Sigourney Weaver;2015;120;6.9;188769;31.57;41
+520;Half of a Yellow Sun;Drama,Romance;Biyi Bandele;Chiwetel Ejiofor, Thandie Newton, Anika Noni Rose,Joseph Mawle;2013;111;6.2;1356;0.05;51
+522;The Counselor;Crime,Drama,Thriller;Ridley Scott;Michael Fassbender, Penélope Cruz, Cameron Diaz,Javier Bardem;2013;117;5.3;84927;16.97;48
+523;Viking;Action,Drama,History;Andrey Kravchuk;Anton Adasinsky, Aleksandr Armer, Vilen Babichev, Rostislav Bershauer;2016;133;4.7;1830;23.05;57
+524;Whiskey Tango Foxtrot;Biography,Comedy,Drama;Glenn Ficarra;Tina Fey, Margot Robbie, Martin Freeman, Alfred Molina;2016;112;6.6;36156;0;57
+525;Trust;Crime,Drama,Thriller;David Schwimmer;Clive Owen, Catherine Keener, Liana Liberato,Jason Clarke;2010;106;7;36043;0.06;60
+526;Birth of the Dragon;Action,Biography,Drama;George Nolfi;Billy Magnussen, Terry Chen, Teresa Navarro,Vanessa Ross;2016;103;3.9;552;93.05;61
+527;Elysium;Action,Drama,Sci-Fi;Neill Blomkamp;Matt Damon, Jodie Foster, Sharlto Copley, Alice Braga;2013;109;6.6;358932;0;61
+531;A Good Year;Comedy,Drama,Romance;Ridley Scott;Russell Crowe, Abbie Cornish, Albert Finney, Marion Cotillard;2006;117;6.9;74674;7.46;47
+535;A Quiet Passion;Biography,Drama;Terence Davies;Cynthia Nixon, Jennifer Ehle, Duncan Duff, Keith Carradine;2016;125;7.2;1024;1.08;77
+536;Need for Speed;Action,Crime,Drama;Scott Waugh;Aaron Paul, Dominic Cooper, Imogen Poots, Scott Mescudi;2014;132;6.5;143389;43.57;39
+539;True Crimes;Crime,Drama,Thriller;Alexandros Avranas;Jim Carrey, Charlotte Gainsbourg, Marton Csokas, Kati Outinen;2016;92;7.3;198;0;43
+540;American Pastoral;Crime,Drama;Ewan McGregor;Ewan McGregor, Jennifer Connelly, Dakota Fanning, Peter Riegert;2016;108;6.1;7115;0;43
+544;P.S. I Love You;Drama,Romance;Richard LaGravenese;Hilary Swank, Gerard Butler, Harry Connick Jr., Lisa Kudrow;2007;126;7.1;177247;53.68;39
+545;Zipper;Drama,Thriller;Mora Stephens;Patrick Wilson, Lena Headey, Ray Winstone,Richard Dreyfuss;2015;103;5.7;4912;0;39
+546;Midnight Special;Drama,Mystery,Sci-Fi;Jeff Nichols;Michael Shannon, Joel Edgerton, Kirsten Dunst, Adam Driver;2016;112;6.7;54787;3.71;76
+547;Don't Think Twice;Comedy,Drama;Mike Birbiglia;Keegan-Michael Key, Gillian Jacobs, Mike Birbiglia,Chris Gethard;2016;92;6.8;10485;4.42;83
+549;Chuck;Biography,Drama,Sport;Philippe Falardeau;Elisabeth Moss, Naomi Watts, Ron Perlman, Liev Schreiber;2016;98;6.8;391;0.11;68
+550;I, Daniel Blake;Drama;Ken Loach;Dave Johns, Hayley Squires, Sharon Percy, Briana Shann;2016;100;7.9;22941;0;77
+551;The Break-Up;Comedy,Drama,Romance;Peyton Reed;Jennifer Aniston, Vince Vaughn, Jon Favreau, Joey Lauren Adams;2006;106;5.8;106381;118.68;45
+552;Loving;Biography,Drama,Romance;Jeff Nichols;Ruth Negga, Joel Edgerton, Will Dalton, Dean Mumford;2016;123;7.1;17141;7.7;79
+554;The Survivalist;Drama,Sci-Fi,Thriller;Stephen Fingleton;Mia Goth, Martin McCann, Barry Ward, Andrew Simpson;2015;104;6.3;9187;0;80
+555;Colonia;Drama,Romance,Thriller;Florian Gallenberger;Emma Watson, Daniel Brühl, Michael Nyqvist,Richenda Carey;2015;106;7.1;30074;0;33
+558;Dracula Untold;Action,Drama,Fantasy;Gary Shore;Luke Evans, Dominic Cooper, Sarah Gadon, Art Parkinson;2014;92;6.3;148504;55.94;40
+565;Snow White and the Huntsman;Action,Adventure,Drama;Rupert Sanders;Kristen Stewart, Chris Hemsworth, Charlize Theron, Sam Claflin;2012;127;6.1;239772;155.11;57
+568;Juno;Comedy,Drama;Jason Reitman;Ellen Page, Michael Cera, Jennifer Garner, Jason Bateman;2007;96;7.5;432461;143.49;81
+569;A Hologram for the King;Comedy,Drama;Tom Tykwer;Tom Hanks, Sarita Choudhury, Ben Whishaw,Alexander Black;2016;98;6.1;26521;4.2;58
+570;Money Monster;Crime,Drama,Thriller;Jodie Foster;George Clooney, Julia Roberts, Jack O'Connell,Dominic West;2016;98;6.5;68654;41.01;55
+573;The Intern;Comedy,Drama;Nancy Meyers;Robert De Niro, Anne Hathaway, Rene Russo,Anders Holm;2015;121;7.1;159582;75.27;51
+574;Little Miss Sunshine;Comedy,Drama;Jonathan Dayton;Steve Carell, Toni Collette, Greg Kinnear, Abigail Breslin;2006;101;7.8;374044;59.89;80
+575;Bleed for This;Biography,Drama,Sport;Ben Younger;Miles Teller, Aaron Eckhart, Katey Sagal, Ciarán Hinds;2016;117;6.8;11900;4.85;62
+577;The Finest Hours;Action,Drama,History;Craig Gillespie;Chris Pine, Casey Affleck, Ben Foster, Eric Bana;2016;117;6.8;44425;27.55;58
+580;All Good Things;Crime,Drama,Mystery;Andrew Jarecki;Ryan Gosling, Kirsten Dunst, Frank Langella, Lily Rabe;2010;101;6.3;44158;0.58;57
+584;What to Expect When You're Expecting;Comedy,Drama,Romance;Kirk Jones;Cameron Diaz, Matthew Morrison, J. Todd Smith, Dennis Quaid;2012;110;5.7;60059;41.1;41
+585;Moneyball;Biography,Drama,Sport;Bennett Miller;Brad Pitt, Robin Wright, Jonah Hill, Philip Seymour Hoffman;2011;133;7.6;297395;75.61;87
+587;Unbroken;Biography,Drama,Sport;Angelina Jolie;Jack O'Connell, Miyavi, Domhnall Gleeson, Garrett Hedlund;2014;137;7.2;114006;115.6;59
+588;Immortals;Action,Drama,Fantasy;Tarsem Singh;Henry Cavill, Mickey Rourke, John Hurt, Stephen Dorff;2011;110;6;142900;83.5;46
+591;Män som hatar kvinnor;Drama,Mystery,Thriller;Niels Arden Oplev;Michael Nyqvist, Noomi Rapace, Ewa Fröling,Lena Endre;2009;152;7.8;182074;10.1;76
+592;Adoration;Drama,Romance;Anne Fontaine;Naomi Watts, Robin Wright, Xavier Samuel, James Frecheville;2013;112;6.2;25208;0.32;37
+593;The Drop;Crime,Drama,Mystery;Michaël R. Roskam;Tom Hardy, Noomi Rapace, James Gandolfini,Matthias Schoenaerts;2014;106;7.1;116118;10.72;69
+596;Let Me In;Drama,Horror,Mystery;Matt Reeves;Kodi Smit-McPhee, Chloë Grace Moretz, Richard Jenkins, Cara Buono;2010;116;7.2;97141;12.13;79
+597;Never Back Down;Action,Drama,Sport;Jeff Wadlow;Sean Faris, Djimon Hounsou, Amber Heard, Cam Gigandet;2008;110;6.6;84083;24.85;39
+599;Moon;Drama,Mystery,Sci-Fi;Duncan Jones;Sam Rockwell, Kevin Spacey, Dominique McElligott,Rosie Shaw;2009;97;7.9;277123;5.01;67
+601;Gangster Squad;Action,Crime,Drama;Ruben Fleischer;Sean Penn, Ryan Gosling, Emma Stone, Giovanni Ribisi;2013;113;6.7;181432;46;40
+602;Blood Father;Action,Crime,Drama;Jean-François Richet;Mel Gibson, Erin Moriarty, Diego Luna, Michael Parks;2016;88;6.4;40357;93.95;66
+603;He's Just Not That Into You;Comedy,Drama,Romance;Ken Kwapis;Jennifer Aniston, Jennifer Connelly, Morgan Lily,Trenton Rogers;2009;129;6.4;137684;0;47
+605;The Rise of the Krays;Crime,Drama;Zackary Adler;Matt Vael, Simon Cotton, Kevin Leslie, Olivia Moyles;2015;110;5.1;1630;6.53;90
+606;Handsome Devil;Drama;John Butler;Fionn O'Shea, Nicholas Galitzine, Andrew Scott, Moe Dunford;2016;95;7.4;338;0;60
+607;Winter's Bone;Drama;Debra Granik;Jennifer Lawrence, John Hawkes, Garret Dillahunt,Isaiah Stone;2010;100;7.2;116435;0;90
+609;Mommy;Drama;Xavier Dolan;Anne Dorval, Antoine-Olivier Pilon, Suzanne Clément,Patrick Huard;2014;139;8.1;33560;3.49;74
+611;Beautiful Creatures;Drama,Fantasy,Romance;Richard LaGravenese;Alice Englert, Viola Davis, Emma Thompson,Alden Ehrenreich;2013;124;6.2;71822;19.45;52
+612;Toni Erdmann;Comedy,Drama;Maren Ade;Sandra Hüller, Peter Simonischek, Michael Wittenborn,Thomas Loibl;2016;162;7.6;24387;1.48;93
+613;The Lovely Bones;Drama,Fantasy,Thriller;Peter Jackson;Rachel Weisz, Mark Wahlberg, Saoirse Ronan, Susan Sarandon;2009;135;6.7;130702;43.98;42
+614;The Assassination of Jesse James by the Coward Robert Ford;Biography,Crime,Drama;Andrew Dominik;Brad Pitt, Casey Affleck, Sam Shepard, Mary-Louise Parker;2007;160;7.5;143564;3.9;68
+615;Don Jon;Comedy,Drama,Romance;Joseph Gordon-Levitt;Joseph Gordon-Levitt, Scarlett Johansson,Julianne Moore, Tony Danza;2013;90;6.6;199973;24.48;66
+616;Bastille Day;Action,Crime,Drama;James Watkins;Idris Elba, Richard Madden, Charlotte Le Bon, Kelly Reilly;2016;92;6.3;21089;0.04;48
+618;Free State of Jones;Action,Biography,Drama;Gary Ross;Matthew McConaughey, Gugu Mbatha-Raw, Mahershala Ali, Keri Russell;2016;139;6.9;29895;0;53
+620;The Secret Life of Walter Mitty;Adventure,Comedy,Drama;Ben Stiller;Ben Stiller, Kristen Wiig, Jon Daly, Kathryn Hahn;2013;114;7.3;249877;58.23;54
+621;Dope;Comedy,Crime,Drama;Rick Famuyiwa;Shameik Moore, Tony Revolori, Kiersey Clemons,Kimberly Elise;2015;103;7.3;66400;17.47;72
+623;Antichrist;Drama,Horror;Lars von Trier;Willem Dafoe, Charlotte Gainsbourg, Storm Acheche Sahlstrøm;2009;108;6.6;94069;0.4;49
+628;The Escort;Comedy,Drama,Romance;Will Slocombe;Lyndsy Fonseca, Michael Doneger, Tommy Dewey,Bruce Campbell;2016;88;6;7181;0;46
+629;The Whole Truth;Crime,Drama,Mystery;Courtney Hunt;Keanu Reeves, Renée Zellweger, Gugu Mbatha-Raw, Gabriel Basso;2016;93;6.1;10700;0;46
+631;Love & Other Drugs;Comedy,Drama,Romance;Edward Zwick;Jake Gyllenhaal, Anne Hathaway, Judy Greer, Oliver Platt;2010;112;6.7;151519;32.36;55
+633;The Host;Comedy,Drama,Horror;Bong Joon Ho;Kang-ho Song, Hee-Bong Byun, Hae-il Park, Doona Bae;2006;120;7;73491;2.2;85
+634;Megan Is Missing;Drama,Horror,Thriller;Michael Goi;Amber Perkins, Rachel Quinn, Dean Waite, Jael Elizabeth Steinmeyer;2011;85;4.9;6683;0;94
+638;Lawless;Crime,Drama;John Hillcoat;Tom Hardy, Shia LaBeouf, Guy Pearce, Jason Clarke;2012;116;7.3;195360;37.4;58
+639;Unfriended;Drama,Horror,Mystery;Levan Gabriadze;Heather Sossaman, Matthew Bohrer, Courtney Halverson, Shelley Hennig;2014;83;5.6;50402;31.54;59
+641;The Pursuit of Happyness;Biography,Drama;Gabriele Muccino;Will Smith, Thandie Newton, Jaden Smith, Brian Howe;2006;117;8;361105;162.59;64
+642;Relatos salvajes;Comedy,Drama,Thriller;Damián Szifron;Darío Grandinetti, María Marull, Mónica Villa, Rita Cortese;2014;122;8.1;110100;3.08;77
+644;Frantz;Drama,History,War;François Ozon;Pierre Niney, Paula Beer, Ernst Stötzner, Marie Gruber;2016;113;7.5;4304;0.86;73
+645;Viral;Drama,Horror,Sci-Fi;Henry Joost;Sofia Black-D'Elia, Analeigh Tipton,Travis Tope, Michael Kelly;2016;85;5.5;3564;0;72
+646;Gran Torino;Drama;Clint Eastwood;Clint Eastwood, Bee Vang, Christopher Carley,Ahney Her;2008;116;8.2;595779;148.09;72
+647;Burnt;Comedy,Drama;John Wells;Bradley Cooper, Sienna Miller, Daniel Brühl, Riccardo Scamarcio;2015;101;6.6;76469;13.65;42
+649;Sleeping Beauty;Drama,Romance;Julia Leigh;Emily Browning, Rachael Blake, Ewen Leslie, Bridgette Barrett;2011;101;5.3;27006;0.03;57
+651;Sweeney Todd: The Demon Barber of Fleet Street;Drama,Horror,Musical;Tim Burton;Johnny Depp, Helena Bonham Carter, Alan Rickman,Timothy Spall;2007;116;7.4;296289;52.88;83
+652;Solace;Crime,Drama,Mystery;Afonso Poyart;Anthony Hopkins, Jeffrey Dean Morgan, Abbie Cornish, Colin Farrell;2015;101;6.4;36300;0;36
+655;The Levelling;Drama;Hope Dickson Leach;Ellie Kendrick, David Troughton, Jack Holden,Joe Blakemore;2016;83;6.4;482;0;82
+656;Public Enemies;Biography,Crime,Drama;Michael Mann;Christian Bale, Johnny Depp, Christian Stolte, Jason Clarke;2009;140;7;240323;97.03;70
+657;Boyhood;Drama;Richard Linklater;Ellar Coltrane, Patricia Arquette, Ethan Hawke,Elijah Smith;2014;165;7.9;286722;25.36;100
+659;Eastern Promises;Crime,Drama,Mystery;David Cronenberg;Naomi Watts, Viggo Mortensen, Armin Mueller-Stahl, Josef Altin;2007;100;7.7;198006;17.11;82
+660;The Daughter;Drama;Simon Stone;Geoffrey Rush, Nicholas Hope, Sam Neill, Ewen Leslie;2015;96;6.7;2798;0.03;62
+662;The First Time;Comedy,Drama,Romance;Jon Kasdan;Dylan O'Brien, Britt Robertson, Victoria Justice, James Frecheville;2012;95;6.9;54027;0.02;55
+663;Gone Baby Gone;Crime,Drama,Mystery;Ben Affleck;Morgan Freeman, Ed Harris, Casey Affleck, Michelle Monaghan;2007;114;7.7;206707;20.3;72
+665;L'avenir;Drama;Mia Hansen-Løve;Isabelle Huppert, André Marcon, Roman Kolinka,Edith Scob;2016;102;7.1;5796;0.28;88
+666;Anna Karenina;Drama,Romance;Joe Wright;Keira Knightley, Jude Law, Aaron Taylor-Johnson,Matthew Macfadyen;2012;129;6.6;75291;12.8;63
+667;Regression;Crime,Drama,Mystery;Alejandro Amenábar;Ethan Hawke, David Thewlis, Emma Watson,Dale Dickey;2015;106;5.7;26320;0.05;32
+669;Pain & Gain;Comedy,Crime,Drama;Michael Bay;Mark Wahlberg, Dwayne Johnson, Anthony Mackie,Tony Shalhoub;2013;129;6.5;168875;49.87;45
+670;Blood Diamond;Adventure,Drama,Thriller;Edward Zwick;Leonardo DiCaprio, Djimon Hounsou, Jennifer Connelly, Kagiso Kuypers;2006;143;8;422014;57.37;64
+671;Devil's Knot;Biography,Crime,Drama;Atom Egoyan;Colin Firth, Reese Witherspoon, Alessandro Nivola,James Hamrick;2013;114;6.1;15514;0;42
+672;Child 44;Crime,Drama,Thriller;Daniel Espinosa;Tom Hardy, Gary Oldman, Noomi Rapace, Joel Kinnaman;2015;137;6.5;47703;1.21;41
+673;The Hurt Locker;Drama,History,Thriller;Kathryn Bigelow;Jeremy Renner, Anthony Mackie, Brian Geraghty,Guy Pearce;2008;131;7.6;352023;15.7;94
+680;The Age of Shadows;Action,Drama,Thriller;Jee-woon Kim;Byung-hun Lee, Yoo Gong, Kang-ho Song, Ji-min Han;2016;140;7.2;2403;0.54;78
+682;We Need to Talk About Kevin;Drama,Mystery,Thriller;Lynne Ramsay;Tilda Swinton, John C. Reilly, Ezra Miller, Jasper Newell;2011;112;7.5;104953;1.74;68
+683;Love & Friendship;Comedy,Drama,Romance;Whit Stillman;Kate Beckinsale, Chloë Sevigny, Xavier Samuel,Emma Greenwell;2016;90;6.5;16164;14.01;87
+685;Seven Pounds;Drama,Romance;Gabriele Muccino;Will Smith, Rosario Dawson, Woody Harrelson,Michael Ealy;2008;123;7.7;245144;69.95;36
+686;The King's Speech;Biography,Drama;Tom Hooper;Colin Firth, Geoffrey Rush, Helena Bonham Carter,Derek Jacobi;2010;118;8;534388;138.8;88
+687;Hunger;Biography,Drama;Steve McQueen;Stuart Graham, Laine Megaw, Brian Milligan, Liam McMahon;2008;96;7.6;54486;0.15;82
+690;Tinker Tailor Soldier Spy;Drama,Mystery,Thriller;Tomas Alfredson;Gary Oldman, Colin Firth, Tom Hardy, Mark Strong;2011;122;7.1;157053;24.1;85
+692;Dear Zindagi;Drama,Romance;Gauri Shinde;Alia Bhatt, Shah Rukh Khan, Kunal Kapoor, Priyanka Moodley;2016;151;7.8;23540;1.4;56
+693;Genius;Biography,Drama;Michael Grandage;Colin Firth, Jude Law, Nicole Kidman, Laura Linney;2016;104;6.5;10708;1.36;54
+694;Pompeii;Action,Adventure,Drama;Paul W.S. Anderson;Kit Harington, Emily Browning, Kiefer Sutherland, Adewale Akinnuoye-Agbaje;2014;105;5.5;90188;23.22;39
+695;Life of Pi;Adventure,Drama,Fantasy;Ang Lee;Suraj Sharma, Irrfan Khan, Adil Hussain, Tabu;2012;127;7.9;471109;124.98;79
+696;Hachi: A Dog's Tale;Drama,Family;Lasse Hallström;Richard Gere, Joan Allen, Cary-Hiroyuki Tagawa,Sarah Roemer;2009;93;8.1;177602;0;61
+697;10 Years;Comedy,Drama,Romance;Jamie Linden;Channing Tatum, Rosario Dawson, Chris Pratt, Jenna Dewan Tatum;2011;100;6.1;19636;0.2;61
+698;I Origins;Drama,Romance,Sci-Fi;Mike Cahill;Michael Pitt, Steven Yeun, Astrid Bergès-Frisbey, Brit Marling;2014;106;7.3;86271;0.33;57
+701;Funny Games;Crime,Drama,Horror;Michael Haneke;Naomi Watts, Tim Roth, Michael Pitt, Brady Corbet;2007;111;6.5;73835;1.29;44
+704;Australia;Adventure,Drama,Romance;Baz Luhrmann;Nicole Kidman, Hugh Jackman, Shea Adams, Eddie Baroo;2008;165;6.6;106115;49.55;53
+705;Faster;Action,Crime,Drama;George Tillman Jr.;Dwayne Johnson, Billy Bob Thornton, Maggie Grace, Mauricio Lopez;2010;98;6.5;83788;23.23;44
+708;The Hollars;Comedy,Drama,Romance;John Krasinski;Sharlto Copley, Charlie Day, Richard Jenkins, Anna Kendrick;2016;88;6.5;5908;1.02;53
+709;The Judge;Crime,Drama;David Dobkin;Robert Downey Jr., Robert Duvall, Vera Farmiga, Billy Bob Thornton;2014;141;7.4;146812;47.11;48
+710;Closed Circuit;Crime,Drama,Mystery;John Crowley;Eric Bana, Rebecca Hall, Jim Broadbent, Ciarán Hinds;2013;96;6.2;18437;5.73;50
+714;Incendies;Drama,Mystery,War;Denis Villeneuve;Lubna Azabal, Mélissa Désormeaux-Poulin, Maxim Gaudette, Mustafa Kamel;2010;131;8.2;92863;6.86;80
+719;Noah;Action,Adventure,Drama;Darren Aronofsky;Russell Crowe, Jennifer Connelly, Anthony Hopkins, Emma Watson;2014;138;5.8;209700;101.16;68
+721;Nymphomaniac: Vol. II;Drama;Lars von Trier;Charlotte Gainsbourg, Stellan Skarsgård, Willem Dafoe, Jamie Bell;2013;123;6.7;65824;0.33;60
+722;Wild;Adventure,Biography,Drama;Jean-Marc Vallée;Reese Witherspoon, Laura Dern, Gaby Hoffmann,Michiel Huisman;2014;115;7.1;95553;37.88;76
+725;The Karate Kid;Action,Drama,Family;Harald Zwart;Jackie Chan, Jaden Smith, Taraji P. Henson, Wenwen Han;2010;140;6.2;127983;176.59;61
+728;The Illusionist;Drama,Mystery,Romance;Neil Burger;Edward Norton, Jessica Biel, Paul Giamatti, Rufus Sewell;2006;110;7.6;309934;39.83;68
+733;This Beautiful Fantastic;Comedy,Drama,Fantasy;Simon Aboud;Jessica Brown Findlay, Andrew Scott, Jeremy Irvine,Tom Wilkinson;2016;100;6.9;688;0;51
+735;Mr. Church;Comedy,Drama;Bruce Beresford;Eddie Murphy, Britt Robertson, Natascha McElhone, Xavier Samuel;2016;104;7.7;16163;0.69;37
+736;Hugo;Adventure,Drama,Family;Martin Scorsese;Asa Butterfield, Chloë Grace Moretz, Christopher Lee, Ben Kingsley;2011;126;7.5;259182;73.82;83
+738;Body of Lies;Action,Drama,Romance;Ridley Scott;Leonardo DiCaprio, Russell Crowe, Mark Strong,Golshifteh Farahani;2008;128;7.1;182305;39.38;57
+739;Knight of Cups;Drama,Romance;Terrence Malick;Christian Bale, Cate Blanchett, Natalie Portman,Brian Dennehy;2015;118;5.7;17439;0.56;53
+742;Hands of Stone;Action,Biography,Drama;Jonathan Jakubowicz;Edgar Ramírez, Usher Raymond, Robert De Niro, Rubén Blades;2016;111;6.6;8998;4.71;54
+743;El secreto de sus ojos;Drama,Mystery,Romance;Juan José Campanella;Ricardo Darín, Soledad Villamil, Pablo Rago,Carla Quevedo;2009;129;8.2;144524;20.17;80
+744;True Grit;Adventure,Drama,Western;Ethan Coen;Jeff Bridges, Matt Damon, Hailee Steinfeld,Josh Brolin;2010;110;7.6;254904;171.03;80
+745;We Are Your Friends;Drama,Music,Romance;Max Joseph;Zac Efron, Wes Bentley, Emily Ratajkowski, Jonny Weston;2015;96;6.2;25903;3.59;46
+748;Rules Don't Apply;Comedy,Drama,Romance;Warren Beatty;Lily Collins, Haley Bennett, Taissa Farmiga, Steve Tom;2016;127;5.7;3731;3.65;60
+751;Fracture;Crime,Drama,Mystery;Gregory Hoblit;Anthony Hopkins, Ryan Gosling, David Strathairn,Rosamund Pike;2007;113;7.2;148943;39;68
+753;In Bruges;Comedy,Crime,Drama;Martin McDonagh;Colin Farrell, Brendan Gleeson, Ciarán Hinds,Elizabeth Berrington;2008;107;7.9;322536;7.76;67
+755;the devil's mistress;Biography,Drama,History;Filip Renc;Tatiana Pauhofová, Karl Markovics, Gedeon Burkhard,Simona Stasová;2016;106;5;353;0;64
+756;The Road;Adventure,Drama;John Hillcoat;Viggo Mortensen, Charlize Theron, Kodi Smit-McPhee,Robert Duvall;2009;111;7.3;187302;0.06;64
+757;Lavender;Drama,Thriller;Ed Gass-Donnelly;Abbie Cornish, Dermot Mulroney, Justin Long,Diego Klattenhoff;2016;92;5.2;2083;0;46
+758;Deuces;Drama;Jamal Hill;Larenz Tate, Meagan Good, Rotimi, Rick Gonzalez;2016;87;6.6;256;0;36
+760;The Fighter;Action,Biography,Drama;David O. Russell;Mark Wahlberg, Christian Bale, Amy Adams,Melissa Leo;2010;116;7.8;290056;93.57;79
+761;August Rush;Drama,Music;Kirsten Sheridan;Freddie Highmore, Keri Russell, Jonathan Rhys Meyers, Terrence Howard;2007;114;7.5;91229;31.66;38
+762;Chef;Comedy,Drama;Jon Favreau;Jon Favreau, Robert Downey Jr., Scarlett Johansson,Dustin Hoffman;2014;114;7.3;151970;31.24;68
+763;Eye in the Sky;Drama,Thriller,War;Gavin Hood;Helen Mirren, Aaron Paul, Alan Rickman, Barkhad Abdi;2015;102;7.3;57826;18.7;73
+766;PK;Comedy,Drama,Romance;Rajkumar Hirani;Aamir Khan, Anushka Sharma, Sanjay Dutt,Boman Irani;2014;153;8.2;103279;10.57;51
+769;Paper Towns;Drama,Mystery,Romance;Jake Schreier;Nat Wolff, Cara Delevingne, Austin Abrams, Justice Smith;2015;109;6.3;72515;31.99;56
+770;High-Rise;Drama;Ben Wheatley;Tom Hiddleston, Jeremy Irons, Sienna Miller, Luke Evans;2015;119;5.7;25928;0.34;65
+774;Lady in the Water;Drama,Fantasy,Mystery;M. Night Shyamalan;Paul Giamatti, Bryce Dallas Howard, Jeffrey Wright, Bob Balaban;2006;110;5.6;82701;42.27;36
+775;The Fountain;Drama,Sci-Fi;Darren Aronofsky;Hugh Jackman, Rachel Weisz, Sean Patrick Thomas, Ellen Burstyn;2006;96;7.3;199193;10.14;51
+780;The Man Who Knew Infinity;Biography,Drama;Matt Brown;Dev Patel, Jeremy Irons, Malcolm Sinclair, Raghuvir Joshi;2015;108;7.2;29912;3.86;56
+783;Mr. Brooks;Crime,Drama,Thriller;Bruce A. Evans;Kevin Costner, Demi Moore, William Hurt, Dane Cook;2007;120;7.3;128146;28.48;45
+785;Before We Go;Comedy,Drama,Romance;Chris Evans;Chris Evans, Alice Eve, Emma Fitzpatrick, John Cullum;2014;95;6.9;31370;0.04;31
+786;Captain Phillips;Biography,Drama,Thriller;Paul Greengrass;Tom Hanks, Barkhad Abdi, Barkhad Abdirahman,Catherine Keener;2013;134;7.8;346154;107.1;83
+787;The Secret Scripture;Drama;Jim Sheridan;Rooney Mara, Eric Bana, Theo James, Aidan Turner;2016;108;6.8;378;0;37
+790;Hancock;Action,Crime,Drama;Peter Berg;Will Smith, Charlize Theron, Jason Bateman, Jae Head;2008;92;6.4;366138;227.95;49
+794;Ma vie de Courgette;Animation,Comedy,Drama;Claude Barras;Gaspard Schlatter, Sixtine Murat, Paulin Jaccoud,Michel Vuillermoz;2016;66;7.8;4370;0.29;85
+797;Rescue Dawn;Adventure,Biography,Drama;Werner Herzog;Christian Bale, Steve Zahn, Jeremy Davies, Zach Grenier;2006;120;7.3;87887;5.48;77
+799;A Walk Among the Tombstones;Crime,Drama,Mystery;Scott Frank;Liam Neeson, Dan Stevens, David Harbour, Boyd Holbrook;2014;114;6.5;93883;25.98;57
+804;Jack Ryan: Shadow Recruit;Action,Drama,Thriller;Kenneth Branagh;Chris Pine, Kevin Costner, Keira Knightley,Kenneth Branagh;2014;105;6.2;103681;50.55;57
+806;The Gambler;Crime,Drama,Thriller;Rupert Wyatt;Mark Wahlberg, Jessica Lange, John Goodman, Brie Larson;2014;111;6;52537;33.63;55
+808;The Spectacular Now;Comedy,Drama,Romance;James Ponsoldt;Miles Teller, Shailene Woodley, Kyle Chandler,Jennifer Jason Leigh;2013;95;7.1;115751;6.85;82
+809;A United Kingdom;Biography,Drama,Romance;Amma Asante;David Oyelowo, Rosamund Pike, Tom Felton, Jack Davenport;2016;111;6.8;4771;3.9;65
+810;USS Indianapolis: Men of Courage;Action,Drama,History;Mario Van Peebles;Nicolas Cage, Tom Sizemore, Thomas Jane,Matt Lanter;2016;128;5.2;4964;0;30
+816;Inside Man;Crime,Drama,Mystery;Spike Lee;Denzel Washington, Clive Owen, Jodie Foster,Christopher Plummer;2006;129;7.6;285441;88.5;76
+817;I.T.;Crime,Drama,Mystery;John Moore;Pierce Brosnan, Jason Barry, Karen Moskow, Kai Ryssdal;2016;95;5.4;8755;0;27
+818;127 Hours;Adventure,Biography,Drama;Danny Boyle;James Franco, Amber Tamblyn, Kate Mara, Sean Bott;2010;94;7.6;294010;18.33;82
+821;suite francaise;Drama,Romance,War;Saul Dibb;Michelle Williams, Kristin Scott Thomas, Margot Robbie,Eric Godon;2014;107;6.9;13711;0;63
+824;Christine;Biography,Drama;Antonio Campos;Rebecca Hall, Michael C. Hall, Tracy Letts, Maria Dizzia;2016;119;7;5855;0.3;72
+825;Man Down;Drama,Thriller;Dito Montiel;Shia LaBeouf, Jai Courtney, Gary Oldman, Kate Mara;2015;90;5.8;4779;0;27
+827;Shut In;Drama,Horror,Thriller;Farren Blackburn;Naomi Watts, Charlie Heaton, Jacob Tremblay,Oliver Platt;2016;91;4.6;5715;6.88;25
+831;Rocky Balboa;Drama,Sport;Sylvester Stallone;Sylvester Stallone, Antonio Tarver, Milo Ventimiglia, Burt Young;2006;102;7.2;171356;70.27;63
+833;Jane Eyre;Drama,Romance;Cary Joji Fukunaga;Mia Wasikowska, Michael Fassbender, Jamie Bell, Su Elliot;2011;120;7.4;67464;11.23;76
+837;Bacalaureat;Crime,Drama;Cristian Mungiu;Adrian Titieni, Maria-Victoria Dragus, Lia Bugnar,Malina Manovici;2016;128;7.5;5531;0.13;84
+839;Exposed;Crime,Drama,Mystery;Gee Malik Linton;Ana de Armas, Keanu Reeves, Christopher McDonald, Mira Sorvino;2016;102;4.2;8409;0;23
+840;Maudie;Biography,Drama,Romance;Aisling Walsh;Ethan Hawke, Sally Hawkins, Kari Matchett, Zachary Bennett;2016;115;7.8;346;0;60
+842;A Bigger Splash;Drama,Thriller;Luca Guadagnino;Tilda Swinton, Matthias Schoenaerts, Ralph Fiennes, Dakota Johnson;2015;125;6.4;15232;1.98;74
+843;Melancholia;Drama;Lars von Trier;Kirsten Dunst, Charlotte Gainsbourg, Kiefer Sutherland, Alexander Skarsgård;2011;135;7.1;137117;3.03;80
+846;Flight;Drama,Thriller;Robert Zemeckis;Denzel Washington, Nadine Velazquez, Don Cheadle, John Goodman;2012;138;7.3;276347;93.75;76
+848;La migliore offerta;Crime,Drama,Mystery;Giuseppe Tornatore;Geoffrey Rush, Jim Sturgess, Sylvia Hoeks,Donald Sutherland;2013;131;7.8;77986;0.09;49
+850;42;Biography,Drama,Sport;Brian Helgeland;Chadwick Boseman, T.R. Knight, Harrison Ford,Nicole Beharie;2013;128;7.5;69659;95;62
+851;21;Crime,Drama,Thriller;Robert Luketic;Jim Sturgess, Kate Bosworth, Kevin Spacey, Aaron Yoo;2008;123;6.8;198395;81.16;48
+852;Begin Again;Drama,Music;John Carney;Keira Knightley, Mark Ruffalo, Adam Levine, Hailee Steinfeld;2013;104;7.4;111875;16.17;62
+853;Out of the Furnace;Crime,Drama,Thriller;Scott Cooper;Christian Bale, Casey Affleck, Zoe Saldana, Woody Harrelson;2013;116;6.8;88829;11.33;63
+854;Vicky Cristina Barcelona;Drama,Romance;Woody Allen;Rebecca Hall, Scarlett Johansson, Javier Bardem,Christopher Evan Welch;2008;96;7.1;208770;23.21;70
+856;Barbershop: The Next Cut;Comedy,Drama;Malcolm D. Lee;Ice Cube, Regina Hall, Anthony Anderson, Eve;2016;111;5.9;9993;54.01;67
+857;Terminator Salvation;Action,Adventure,Drama;McG;Christian Bale, Sam Worthington, Anton Yelchin, Moon Bloodgood;2009;115;6.6;297093;125.32;49
+858;Freedom Writers;Biography,Crime,Drama;Richard LaGravenese;Hilary Swank, Imelda Staunton, Patrick Dempsey, Scott Glenn;2007;123;7.5;55648;36.58;64
+860;Changeling;Biography,Drama,Mystery;Clint Eastwood;Angelina Jolie, Colm Feore, Amy Ryan, Gattlin Griffith;2008;141;7.8;206793;35.71;63
+861;Remember Me;Drama,Romance;Allen Coulter;Robert Pattinson, Emilie de Ravin, Caitlyn Rund,Moisés Acevedo;2010;113;7.2;119376;19.06;40
+862;Koe no katachi;Animation,Drama,Romance;Naoko Yamada;Miyu Irino, Saori Hayami, Aoi Yuki, Kenshô Ono;2016;129;8.4;2421;0;80
+864;Locke;Drama;Steven Knight;Tom Hardy, Olivia Colman, Ruth Wilson, Andrew Scott;2013;85;7.1;100890;1.36;81
+866;Horns;Drama,Fantasy,Horror;Alexandre Aja;Daniel Radcliffe, Juno Temple, Max Minghella, Joe Anderson;2013;120;6.5;61060;0.16;46
+867;Indignation;Drama,Romance;James Schamus;Logan Lerman, Sarah Gadon, Tijuana Ricks, Sue Dahlman;2016;110;6.9;7402;3.4;78
+868;The Stanford Prison Experiment;Biography,Drama,History;Kyle Patrick Alvarez;Ezra Miller, Tye Sheridan, Billy Crudup, Olivia Thirlby;2015;122;6.9;20907;0.64;67
+871;En man som heter Ove;Comedy,Drama;Hannes Holm;Rolf Lassgård, Bahar Pars, Filip Berg, Ida Engvoll;2015;116;7.7;21569;3.36;70
+874;One Day;Drama,Romance;Lone Scherfig;Anne Hathaway, Jim Sturgess, Patricia Clarkson,Tom Mison;2011;107;7;113599;13.77;48
+875;Life as We Know It;Comedy,Drama,Romance;Greg Berlanti;Katherine Heigl, Josh Duhamel, Josh Lucas, Alexis Clagett;2010;114;6.6;101301;53.36;39
+876;28 Weeks Later;Drama,Horror,Sci-Fi;Juan Carlos Fresnadillo;Jeremy Renner, Rose Byrne, Robert Carlyle, Harold Perrineau;2007;100;7;221858;28.64;78
+878;Blue Jasmine;Drama;Woody Allen;Cate Blanchett, Alec Baldwin, Peter Sarsgaard, Sally Hawkins;2013;98;7.3;160592;33.4;78
+881;Shin Gojira;Action,Adventure,Drama;Hideaki Anno;Hiroki Hasegawa, Yutaka Takenouchi,Satomi Ishihara, Ren Ôsugi;2016;120;6.9;8365;1.91;68
+882;Saving Mr. Banks;Biography,Comedy,Drama;John Lee Hancock;Emma Thompson, Tom Hanks, Annie Rose Buckley, Colin Farrell;2013;125;7.5;125693;83.3;65
+883;Transcendence;Drama,Mystery,Romance;Wally Pfister;Johnny Depp, Rebecca Hall, Morgan Freeman, Cillian Murphy;2014;119;6.3;184564;23.01;42
+885;Equals;Drama,Romance,Sci-Fi;Drake Doremus;Nicholas Hoult, Kristen Stewart, Vernetta Lopez,Scott Lawrence;2015;101;6.1;16361;0.03;43
+886;Babel;Drama;Alejandro González Iñárritu;Brad Pitt, Cate Blanchett, Gael García Bernal, Mohamed Akhzam;2006;143;7.5;253417;34.3;69
+887;The Tree of Life;Drama,Fantasy;Terrence Malick;Brad Pitt, Sean Penn, Jessica Chastain, Hunter McCracken;2011;139;6.8;143517;13.3;85
+888;The Lucky One;Drama,Romance;Scott Hicks;Zac Efron, Taylor Schilling, Blythe Danner, Riley Thomas Stewart;2012;101;6.5;82874;60.44;39
+890;50/50;Comedy,Drama,Romance;Jonathan Levine;Joseph Gordon-Levitt, Seth Rogen, Anna Kendrick, Bryce Dallas Howard;2011;100;7.7;281625;34.96;72
+891;The Intent;Crime,Drama;Femi Oyeniran;Dylan Duffus, Scorcher,Shone Romulus, Jade Asha;2016;104;3.5;202;0;59
+893;Real Steel;Action,Drama,Family;Shawn Levy;Hugh Jackman, Evangeline Lilly, Dakota Goyo,Anthony Mackie;2011;127;7.1;264480;85.46;56
+894;Sex and the City;Comedy,Drama,Romance;Michael Patrick King;Sarah Jessica Parker, Kim Cattrall, Cynthia Nixon, Kristin Davis;2008;145;5.5;102547;152.64;53
+897;Concussion;Biography,Drama,Sport;Peter Landesman;Will Smith, Alec Baldwin, Albert Brooks, David Morse;2015;123;7.1;61274;34.53;55
+898;The Fall;Adventure,Comedy,Drama;Tarsem Singh;Lee Pace, Catinca Untaru, Justine Waddell, Kim Uylenbroek;2006;117;7.9;93036;2.28;64
+901;Sleeping with Other People;Comedy,Drama,Romance;Leslye Headland;Jason Sudeikis, Alison Brie, Jordan Carlos,Margarita Levieva;2015;101;6.5;27730;0.81;64
+906;In Dubious Battle;Drama;James Franco;Nat Wolff, James Franco, Vincent D'Onofrio, Selena Gomez;2016;110;6.2;1455;0;43
+907;Hello, My Name Is Doris;Comedy,Drama,Romance;Michael Showalter;Sally Field, Max Greenfield, Tyne Daly, Wendi McLendon-Covey;2015;95;6.7;12361;14.44;63
+910;Contagion;Drama,Thriller;Steven Soderbergh;Matt Damon, Kate Winslet, Jude Law, Gwyneth Paltrow;2011;106;6.6;187004;75.64;70
+911;Il racconto dei racconti - Tale of Tales;Drama,Fantasy,Horror;Matteo Garrone;Salma Hayek, Vincent Cassel, Toby Jones, John C. Reilly;2015;133;6.4;17565;0.08;72
+913;Bridge to Terabithia;Adventure,Drama,Family;Gabor Csupo;Josh Hutcherson, AnnaSophia Robb, Zooey Deschanel, Robert Patrick;2007;96;7.2;117297;82.23;74
+915;Notorious;Biography,Crime,Drama;George Tillman Jr.;Jamal Woolard, Anthony Mackie, Derek Luke,Momo Dione;2009;122;6.7;33007;36.84;60
+916;Goksung;Drama,Fantasy,Horror;Hong-jin Na;Jun Kunimura, Jung-min Hwang, Do-won Kwak, Woo-hee Chun;2016;156;7.5;17962;0.79;81
+918;The Girl Next Door;Crime,Drama,Horror;Gregory Wilson;William Atherton, Blythe Auffarth, Blanche Baker,Kevin Chamberlin;2007;91;6.7;19351;0;29
+919;Perfume: The Story of a Murderer;Crime,Drama,Fantasy;Tom Tykwer;Ben Whishaw, Dustin Hoffman, Alan Rickman,Francesc Albiol;2006;147;7.5;199387;2.21;56
+921;Centurion;Action,Adventure,Drama;Neil Marshall;Michael Fassbender, Dominic West, Olga Kurylenko,Andreas Wisniewski;2010;97;6.4;67801;0.12;62
+923;17 Again;Comedy,Drama,Family;Burr Steers;Zac Efron, Matthew Perry, Leslie Mann, Thomas Lennon;2009;102;6.4;152808;64.15;48
+926;The Twilight Saga: Breaking Dawn - Part 1;Adventure,Drama,Fantasy;Bill Condon;Kristen Stewart, Robert Pattinson, Taylor Lautner, Gil Birmingham;2011;117;4.9;190244;281.28;45
+927;Precious;Drama;Lee Daniels;Gabourey Sidibe, Mo'Nique, Paula Patton, Mariah Carey;2009;110;7.3;91623;47.54;79
+928;The Sea of Trees;Drama;Gus Van Sant;Matthew McConaughey, Naomi Watts, Ken Watanabe,Ryoko Seta;2015;110;5.9;7475;0.02;23
+930;The Master;Drama;Paul Thomas Anderson;Philip Seymour Hoffman, Joaquin Phoenix,Amy Adams, Jesse Plemons;2012;144;7.1;112902;16.38;86
+931;Footloose;Comedy,Drama,Music;Craig Brewer;Kenny Wormald, Julianne Hough, Dennis Quaid,Andie MacDowell;2011;113;5.9;39380;51.78;58
+932;If I Stay;Drama,Fantasy,Music;R.J. Cutler;Chloë Grace Moretz, Mireille Enos, Jamie Blackley,Joshua Leonard;2014;107;6.8;92170;50.46;46
+933;The Ticket;Drama;Ido Fluk;Dan Stevens, Malin Akerman, Oliver Platt, Kerry Bishé;2016;97;5.4;924;0;52
+938;Super;Comedy,Drama;James Gunn;Rainn Wilson, Ellen Page, Liv Tyler, Kevin Bacon;2010;96;6.8;64535;0.32;50
+939;The Siege of Jadotville;Action,Drama,Thriller;Richie Smyth;Jamie Dornan, Mark Strong, Jason O'Mara, Michael McElhatton;2016;108;7.3;14689;0;83
+940;Up in the Air;Drama,Romance;Jason Reitman;George Clooney, Vera Farmiga, Anna Kendrick,Jason Bateman;2009;109;7.4;279694;83.81;83
+942;The Twilight Saga: Eclipse;Adventure,Drama,Fantasy;David Slade;Kristen Stewart, Robert Pattinson, Taylor Lautner,Xavier Samuel;2010;124;4.9;192740;300.52;58
+947;The Butler;Biography,Drama;Lee Daniels;Forest Whitaker, Oprah Winfrey, John Cusack, Jane Fonda;2013;132;7.2;93322;116.63;66
+948;King Cobra;Crime,Drama;Justin Kelly;Garrett Clayton, Christian Slater, Molly Ringwald,James Kelley;2016;91;5.6;3990;0.03;48
+951;Me and Earl and the Dying Girl;Comedy,Drama;Alfonso Gomez-Rejon;Thomas Mann, RJ Cyler, Olivia Cooke, Nick Offerman;2015;105;7.8;92076;6.74;74
+952;The Descendants;Comedy,Drama;Alexander Payne;George Clooney, Shailene Woodley, Amara Miller, Nick Krause;2011;115;7.3;211348;82.62;84
+953;Sex and the City 2;Comedy,Drama,Romance;Michael Patrick King;Sarah Jessica Parker, Kim Cattrall, Kristin Davis, Cynthia Nixon;2010;146;4.3;62403;95.33;27
+954;The Kings of Summer;Adventure,Comedy,Drama;Jordan Vogt-Roberts;Nick Robinson, Gabriel Basso, Moises Arias,Nick Offerman;2013;95;7.2;65653;1.29;61
+958;End of Watch;Crime,Drama,Thriller;David Ayer;Jake Gyllenhaal, Michael Peña, Anna Kendrick, America Ferrera;2012;109;7.7;192190;40.98;68
+959;3 Days to Kill;Action,Drama,Thriller;McG;Kevin Costner, Hailee Steinfeld, Connie Nielsen, Amber Heard;2014;117;6.2;73567;30.69;40
+960;Lucky Number Slevin;Crime,Drama,Mystery;Paul McGuigan;Josh Hartnett, Ben Kingsley, Morgan Freeman, Lucy Liu;2006;110;7.8;271940;22.49;53
+961;Trance;Crime,Drama,Mystery;Danny Boyle;James McAvoy, Rosario Dawson, Vincent Cassel,Danny Sapani;2013;101;7;97141;2.32;61
+962;Into the Forest;Drama,Sci-Fi,Thriller;Patricia Rozema;Ellen Page, Evan Rachel Wood, Max Minghella,Callum Keith Rennie;2015;101;5.9;10220;0.01;59
+963;The Other Boleyn Girl;Biography,Drama,History;Justin Chadwick;Natalie Portman, Scarlett Johansson, Eric Bana,Jim Sturgess;2008;115;6.7;88260;26.81;50
+965;Custody;Drama;James Lapine;Viola Davis, Hayden Panettiere, Catalina Sandino Moreno, Ellen Burstyn;2016;104;6.9;280;0;72
+966;Inland Empire;Drama,Mystery,Thriller;David Lynch;Laura Dern, Jeremy Irons, Justin Theroux, Karolina Gruszka;2006;180;7;44227;0;72
+972;Disturbia;Drama,Mystery,Thriller;D.J. Caruso;Shia LaBeouf, David Morse, Carrie-Anne Moss, Sarah Roemer;2007;105;6.9;193491;80.05;62
+973;Rock of Ages;Comedy,Drama,Musical;Adam Shankman;Julianne Hough, Diego Boneta, Tom Cruise, Alec Baldwin;2012;123;5.9;64513;38.51;47
+975;Queen of Katwe;Biography,Drama,Sport;Mira Nair;Madina Nalwanga, David Oyelowo, Lupita Nyong'o, Martin Kabanza;2016;124;7.4;6753;8.81;73
+977;Dark Places;Drama,Mystery,Thriller;Gilles Paquet-Brenner;Charlize Theron, Nicholas Hoult, Christina Hendricks, Chloë Grace Moretz;2015;113;6.2;31634;0;39
+979;It's Only the End of the World;Drama;Xavier Dolan;Nathalie Baye, Vincent Cassel, Marion Cotillard, Léa Seydoux;2016;97;7;10658;0;48
+980;The Skin I Live In;Drama,Thriller;Pedro Almodóvar;Antonio Banderas, Elena Anaya, Jan Cornet,Marisa Paredes;2011;120;7.6;108772;3.19;70
+981;Miracles from Heaven;Biography,Drama,Family;Patricia Riggen;Jennifer Garner, Kylie Rogers, Martin Henderson,Brighton Sharbino;2016;109;7;12048;61.69;44
+982;Annie;Comedy,Drama,Family;Will Gluck;Quvenzhané Wallis, Cameron Diaz, Jamie Foxx, Rose Byrne;2014;118;5.3;27312;85.91;33
+983;Across the Universe;Drama,Fantasy,Musical;Julie Taymor;Evan Rachel Wood, Jim Sturgess, Joe Anderson, Dana Fuchs;2007;133;7.4;95172;24.34;56
+988;Endless Love;Drama,Romance;Shana Feste;Gabriella Wilde, Alex Pettyfer, Bruce Greenwood,Robert Patrick;2014;104;6.3;33688;23.39;30
+990;Selma;Biography,Drama,History;Ava DuVernay;David Oyelowo, Carmen Ejogo, Tim Roth, Lorraine Toussaint;2014;128;7.5;67637;52.07;89
+992;Taare Zameen Par;Drama,Family,Music;Aamir Khan;Darsheel Safary, Aamir Khan, Tanay Chheda, Sachet Engineer;2007;165;8.5;102697;1.2;42
+993;Take Me Home Tonight;Comedy,Drama,Romance;Michael Dowse;Topher Grace, Anna Faris, Dan Fogler, Teresa Palmer;2011;97;6.3;45419;6.92;42
+996;Secret in Their Eyes;Crime,Drama,Mystery;Billy Ray;Chiwetel Ejiofor, Nicole Kidman, Julia Roberts, Dean Norris;2015;111;6.2;27585;0;45
+998;Step Up 2: The Streets;Drama,Music,Romance;Jon M. Chu;Robert Hoffman, Briana Evigan, Cassie Ventura, Adam G. Sevani;2008;98;6.2;70699;58.01;50

@@ -1,0 +1,121 @@
+Rank;Title;Genre;Director;Actors;Year;Runtime (Minutes);Rating;Votes;Revenue (Millions);Metascore
+1;Guardians of the Galaxy;Action,Adventure,Sci-Fi;James Gunn;Chris Pratt, Vin Diesel, Bradley Cooper, Zoe Saldana;2014;121;8.1;757074;333.13;76
+2;Prometheus;Adventure,Mystery,Sci-Fi;Ridley Scott;Noomi Rapace, Logan Marshall-Green, Michael Fassbender, Charlize Theron;2012;124;7;485820;126.46;65
+13;Rogue One;Action,Adventure,Sci-Fi;Gareth Edwards;Felicity Jones, Diego Luna, Alan Tudyk, Donnie Yen;2016;133;7.9;323118;532.17;65
+20;Arrival;Drama,Mystery,Sci-Fi;Denis Villeneuve;Amy Adams, Jeremy Renner, Forest Whitaker,Michael Stuhlbarg;2016;116;8;340798;100.5;81
+25;Independence Day: Resurgence;Action,Adventure,Sci-Fi;Roland Emmerich;Liam Hemsworth, Jeff Goldblum, Bill Pullman,Maika Monroe;2016;120;5.3;127553;103.14;32
+33;X-Men: Apocalypse;Action,Adventure,Sci-Fi;Bryan Singer;James McAvoy, Michael Fassbender, Jennifer Lawrence, Nicholas Hoult;2016;144;7.1;275510;155.33;52
+35;Resident Evil: The Final Chapter;Action,Horror,Sci-Fi;Paul W.S. Anderson;Milla Jovovich, Iain Glen, Ali Larter, Shawn Roberts;2016;107;5.6;46165;26.84;49
+36;Captain America: Civil War;Action,Adventure,Sci-Fi;Anthony Russo;Chris Evans, Robert Downey Jr.,Scarlett Johansson, Sebastian Stan;2016;147;7.9;411656;408.08;75
+37;Interstellar;Adventure,Drama,Sci-Fi;Christopher Nolan;Matthew McConaughey, Anne Hathaway, Jessica Chastain, Mackenzie Foy;2014;169;8.6;1047747;187.99;74
+49;Star Trek Beyond;Action,Adventure,Sci-Fi;Justin Lin;Chris Pine, Zachary Quinto, Karl Urban, Zoe Saldana;2016;122;7.1;164567;158.8;68
+61;Batman v Superman: Dawn of Justice;Action,Adventure,Sci-Fi;Zack Snyder;Ben Affleck, Henry Cavill, Amy Adams, Jesse Eisenberg;2016;151;6.7;472307;330.25;44
+65;The Prestige;Drama,Mystery,Sci-Fi;Christopher Nolan;Christian Bale, Hugh Jackman, Scarlett Johansson, Michael Caine;2006;130;8.5;913152;53.08;66
+68;Mad Max: Fury Road;Action,Adventure,Sci-Fi;George Miller;Tom Hardy, Charlize Theron, Nicholas Hoult, Zoë Kravitz;2015;120;8.1;632842;153.63;90
+77;The Avengers;Action,Sci-Fi;Joss Whedon;Robert Downey Jr., Chris Evans, Scarlett Johansson,Jeremy Renner;2012;143;8.1;1045588;623.28;69
+81;Inception;Action,Adventure,Sci-Fi;Christopher Nolan;Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Ken Watanabe;2010;148;8.8;1583625;292.57;74
+86;Jurassic World;Action,Adventure,Sci-Fi;Colin Trevorrow;Chris Pratt, Bryce Dallas Howard, Ty Simpkins,Judy Greer;2015;124;7;455169;652.18;59
+95;Avengers: Age of Ultron;Action,Adventure,Sci-Fi;Joss Whedon;Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth;2015;141;7.4;516895;458.99;66
+98;The Void;Horror,Mystery,Sci-Fi;Jeremy Gillespie;Aaron Poole, Kenneth Welsh,Daniel Fathers, Kathleen Munroe;2016;90;5.8;9247;0.15;62
+103;The Martian;Adventure,Drama,Sci-Fi;Ridley Scott;Matt Damon, Jessica Chastain, Kristen Wiig, Kate Mara;2015;144;8;556097;228.43;80
+110;Ex Machina;Drama,Mystery,Sci-Fi;Alex Garland;Alicia Vikander, Domhnall Gleeson, Oscar Isaac,Sonoya Mizuno;2014;108;7.7;339797;25.44;78
+113;The Bad Batch;Romance,Sci-Fi;Ana Lily Amirpour;Keanu Reeves, Jason Momoa, Jim Carrey, Diego Luna;2016;118;6.1;512;0;65
+122;Divergent;Adventure,Mystery,Sci-Fi;Neil Burger;Shailene Woodley, Theo James, Kate Winslet, Jai Courtney;2014;139;6.7;362093;150.83;48
+127;Transformers: Age of Extinction;Action,Adventure,Sci-Fi;Michael Bay;Mark Wahlberg, Nicola Peltz, Jack Reynor, Stanley Tucci;2014;165;5.7;255483;245.43;32
+141;Star Trek;Action,Adventure,Sci-Fi;J.J. Abrams;Chris Pine, Zachary Quinto, Simon Pegg, Leonard Nimoy;2009;127;8;526324;257.7;82
+152;The Hunger Games;Adventure,Sci-Fi,Thriller;Gary Ross;Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth,Stanley Tucci;2012;142;7.2;735604;408;68
+156;Aliens vs Predator - Requiem;Action,Horror,Sci-Fi;Colin Strause;Reiko Aylesworth, Steven Pasquale,Shareeka Epps, John Ortiz;2007;94;4.7;97618;41.8;29
+157;Pacific Rim;Action,Adventure,Sci-Fi;Guillermo del Toro;Idris Elba, Charlie Hunnam, Rinko Kikuchi,Charlie Day;2013;131;7;400519;101.79;64
+163;X-Men: Days of Future Past;Action,Adventure,Sci-Fi;Bryan Singer;Patrick Stewart, Ian McKellen, Hugh Jackman, James McAvoy;2014;132;8;552298;233.91;74
+174;Her;Drama,Romance,Sci-Fi;Spike Jonze;Joaquin Phoenix, Amy Adams, Scarlett Johansson,Rooney Mara;2013;126;8;390531;25.56;90
+184;Realive;Sci-Fi;Mateo Gil;Tom Hughes, Charlotte Le Bon, Oona Chaplin, Barry Ward;2016;112;5.9;1176;0;64
+194;Morgan;Horror,Sci-Fi,Thriller;Luke Scott;Kate Mara, Anya Taylor-Joy, Rose Leslie, Michael Yare;2016;92;5.8;22107;3.91;48
+196;Captain America: The First Avenger;Action,Adventure,Sci-Fi;Joe Johnston;Chris Evans, Hugo Weaving, Samuel L. Jackson,Hayley Atwell;2011;124;6.9;547368;176.64;66
+201;Edge of Tomorrow;Action,Adventure,Sci-Fi;Doug Liman;Tom Cruise, Emily Blunt, Bill Paxton, Brendan Gleeson;2014;113;7.9;471815;100.19;71
+204;Iron Man;Action,Adventure,Sci-Fi;Jon Favreau;Robert Downey Jr., Gwyneth Paltrow, Terrence Howard, Jeff Bridges;2008;126;7.9;737719;318.3;79
+206;X: First Class;Action,Adventure,Sci-Fi;Matthew Vaughn;James McAvoy, Michael Fassbender, Jennifer Lawrence, Kevin Bacon;2011;132;7.8;550011;146.41;65
+213;Transformers;Action,Adventure,Sci-Fi;Michael Bay;Shia LaBeouf, Megan Fox, Josh Duhamel, Tyrese Gibson;2007;144;7.1;531112;318.76;61
+217;Captain America: The Winter Soldier;Action,Adventure,Sci-Fi;Anthony Russo;Chris Evans, Samuel L. Jackson,Scarlett Johansson, Robert Redford;2014;136;7.8;542362;259.75;70
+221;Hardcore Henry;Action,Adventure,Sci-Fi;Ilya Naishuller;Sharlto Copley, Tim Roth, Haley Bennett, Danila Kozlovsky;2015;96;6.7;61098;9.24;51
+228;Predators;Action,Adventure,Sci-Fi;Nimród Antal;Adrien Brody, Laurence Fishburne, Topher Grace,Alice Braga;2010;107;6.4;179450;52;51
+230;Rupture;Horror,Sci-Fi,Thriller;Steven Shainberg;Noomi Rapace, Michael Chiklis, Kerry Bishé,Peter Stormare;2016;102;4.8;2382;0;35
+244;Terminator Genisys;Action,Adventure,Sci-Fi;Alan Taylor;Arnold Schwarzenegger, Jason Clarke, Emilia Clarke,Jai Courtney;2015;126;6.5;205365;89.73;38
+247;Children of Men;Drama,Sci-Fi,Thriller;Alfonso Cuarón;Julianne Moore, Clive Owen, Chiwetel Ejiofor,Michael Caine;2006;109;7.9;382910;35.29;84
+254;The Amazing Spider-Man 2;Action,Adventure,Sci-Fi;Marc Webb;Andrew Garfield, Emma Stone, Jamie Foxx, Paul Giamatti;2014;142;6.7;342183;202.85;53
+257;Battleship;Action,Adventure,Sci-Fi;Peter Berg;Alexander Skarsgård, Brooklyn Decker, Liam Neeson,Rihanna;2012;131;5.8;210349;65.17;41
+258;Rise of the Planet of the Apes;Action,Drama,Sci-Fi;Rupert Wyatt;James Franco, Andy Serkis, Freida Pinto, Karin Konoval;2011;105;7.6;422290;176.74;68
+268;Cloud Atlas;Drama,Sci-Fi;Tom Tykwer;Tom Hanks, Halle Berry, Hugh Grant, Hugo Weaving;2012;172;7.5;298651;27.1;55
+269;X-Men Origins: Wolverine;Action,Adventure,Sci-Fi;Gavin Hood;Hugh Jackman, Liev Schreiber, Ryan Reynolds, Danny Huston;2009;107;6.7;388447;179.88;40
+280;Iron Man Three;Action,Adventure,Sci-Fi;Shane Black;Robert Downey Jr., Guy Pearce, Gwyneth Paltrow,Don Cheadle;2013;130;7.2;591023;408.99;62
+288;Jupiter Ascending;Action,Adventure,Sci-Fi;Lana Wachowski;Channing Tatum, Mila Kunis,Eddie Redmayne, Sean Bean;2015;127;5.3;150121;47.38;40
+316;Snowpiercer;Action,Drama,Sci-Fi;Bong Joon Ho;Chris Evans, Jamie Bell, Tilda Swinton, Ed Harris;2013;126;7;199048;4.56;84
+317;The 5th Wave;Action,Adventure,Sci-Fi;J Blakeson;Chloë Grace Moretz, Matthew Zuk, Gabriela Lopez,Bailey Anne Borders;2016;112;5.2;73093;34.91;33
+324;In Time;Action,Sci-Fi,Thriller;Andrew Niccol;Justin Timberlake, Amanda Seyfried, Cillian Murphy,Olivia Wilde;2011;109;6.7;319025;37.55;53
+327;Victor Frankenstein;Drama,Horror,Sci-Fi;Paul McGuigan;Daniel Radcliffe, James McAvoy, Jessica Brown Findlay, Andrew Scott;2015;110;6;37975;5.77;36
+355;Insurgent;Adventure,Sci-Fi,Thriller;Robert Schwentke;Shailene Woodley, Ansel Elgort, Theo James,Kate Winslet;2015;119;6.3;171970;130;42
+363;Star Trek Into Darkness;Action,Adventure,Sci-Fi;J.J. Abrams;Chris Pine, Zachary Quinto, Zoe Saldana, Benedict Cumberbatch;2013;132;7.8;417663;228.76;72
+371;Sleight;Action,Drama,Sci-Fi;J.D. Dillard;Jacob Latimore, Seychelle Gabriel, Dulé Hill, Storm Reid;2016;89;6;702;3.85;62
+372;The Maze Runner;Action,Mystery,Sci-Fi;Wes Ball;Dylan O'Brien, Kaya Scodelario, Will Poulter, Thomas Brodie-Sangster;2014;113;6.8;335531;102.41;57
+389;The Wolverine;Action,Adventure,Sci-Fi;James Mangold;Hugh Jackman, Will Yun Lee, Tao Okamoto, Rila Fukushima;2013;126;6.7;355362;132.55;60
+390;John Carter;Action,Adventure,Sci-Fi;Andrew Stanton;Taylor Kitsch, Lynn Collins, Willem Dafoe,Samantha Morton;2012;132;6.6;220667;73.06;51
+397;The Incredible Hulk;Action,Adventure,Sci-Fi;Louis Leterrier;Edward Norton, Liv Tyler, Tim Roth, William Hurt;2008;112;6.8;342355;134.52;61
+399;Absolutely Anything;Comedy,Sci-Fi;Terry Jones;Simon Pegg, Kate Beckinsale, Sanjeev Bhaskar, Rob Riggle;2015;85;6;26587;0;31
+409;The Hunger Games: Mockingjay - Part 2;Action,Adventure,Sci-Fi;Francis Lawrence;Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth, Woody Harrelson;2015;137;6.6;202380;281.67;65
+430;The Purge: Election Year;Action,Horror,Sci-Fi;James DeMonaco;Frank Grillo, Elizabeth Mitchell, Mykelti Williamson, Joseph Julian Soria;2016;109;6;54216;79;55
+447;Dredd;Action,Sci-Fi;Pete Travis;Karl Urban, Olivia Thirlby, Lena Headey, Rachel Wood;2012;95;7.1;213764;13.4;59
+451;Iron Man 2;Action,Adventure,Sci-Fi;Jon Favreau;Robert Downey Jr., Mickey Rourke, Gwyneth Paltrow,Don Cheadle;2010;124;7;556666;312.06;57
+455;I Am Number Four;Action,Adventure,Sci-Fi;D.J. Caruso;Alex Pettyfer, Timothy Olyphant, Dianna Agron, Teresa Palmer;2011;109;6.1;202682;55.09;36
+464;Predestination;Drama,Mystery,Sci-Fi;Michael Spierig;Ethan Hawke, Sarah Snook, Noah Taylor, Madeleine West;2014;97;7.5;187760;0;69
+469;District 9;Action,Sci-Fi,Thriller;Neill Blomkamp;Sharlto Copley, David James, Jason Cope, Nathalie Boltt;2009;112;8;556794;115.65;81
+473;2012;Action,Adventure,Sci-Fi;Roland Emmerich;John Cusack, Thandie Newton, Chiwetel Ejiofor,Amanda Peet;2009;158;5.8;297984;166.11;49
+482;The Giver;Drama,Romance,Sci-Fi;Phillip Noyce;Brenton Thwaites, Jeff Bridges, Meryl Streep, Taylor Swift;2014;97;6.5;93799;45.09;47
+491;Stake Land;Drama,Horror,Sci-Fi;Jim Mickle;Connor Paolo, Nick Damici, Kelly McGillis, Gregory Jones;2010;98;6.5;36091;0.02;66
+493;Cloverfield;Action,Horror,Sci-Fi;Matt Reeves;Mike Vogel, Jessica Lucas, Lizzy Caplan, T.J. Miller;2008;85;7;313803;80.03;64
+495;Under the Skin;Drama,Horror,Sci-Fi;Jonathan Glazer;Scarlett Johansson, Jeremy McWilliams, Lynsey Taylor Mackay, Dougie McConnell;2013;108;6.3;94707;2.61;78
+496;I Am Legend;Drama,Horror,Sci-Fi;Francis Lawrence;Will Smith, Alice Braga, Charlie Tahan, Salli Richardson-Whitfield;2007;101;7.2;565721;256.39;65
+498;Super 8;Mystery,Sci-Fi,Thriller;J.J. Abrams;Elle Fanning, AJ Michalka, Kyle Chandler, Joel Courtney;2011;112;7.1;298913;126.98;72
+501;Maze Runner: The Scorch Trials;Action,Sci-Fi,Thriller;Wes Ball;Dylan O'Brien, Kaya Scodelario, Thomas Brodie-Sangster,Giancarlo Esposito;2015;131;6.3;159364;81.69;43
+510;Gravity;Drama,Sci-Fi,Thriller;Alfonso Cuarón;Sandra Bullock, George Clooney, Ed Harris, Orto Ignatiussen;2013;91;7.8;622089;274.08;96
+513;The Happening;Sci-Fi,Thriller;M. Night Shyamalan;Mark Wahlberg, Zooey Deschanel, John Leguizamo, Ashlyn Sanchez;2008;91;5;170897;64.51;34
+527;Elysium;Action,Drama,Sci-Fi;Neill Blomkamp;Matt Damon, Jodie Foster, Sharlto Copley, Alice Braga;2013;109;6.6;358932;0;61
+529;Godzilla;Action,Adventure,Sci-Fi;Gareth Edwards;Aaron Taylor-Johnson, Elizabeth Olsen, Bryan Cranston, Ken Watanabe;2014;123;6.4;318058;200.66;62
+533;Deja Vu;Action,Sci-Fi,Thriller;Tony Scott;Denzel Washington, Paula Patton, Jim Caviezel, Val Kilmer;2006;126;7;253858;0;59
+534;Lucy;Action,Sci-Fi,Thriller;Luc Besson;Scarlett Johansson, Morgan Freeman, Min-sik Choi,Amr Waked;2014;89;6.4;352698;126.55;61
+542;Limitless;Mystery,Sci-Fi,Thriller;Neil Burger;Bradley Cooper, Anna Friel, Abbie Cornish, Robert De Niro;2011;105;7.4;444417;79.24;59
+543;Spectral;Action,Mystery,Sci-Fi;Nic Mathieu;James Badge Dale, Emily Mortimer, Bruce Greenwood,Max Martini;2016;107;6.3;27042;0;39
+546;Midnight Special;Drama,Mystery,Sci-Fi;Jeff Nichols;Michael Shannon, Joel Edgerton, Kirsten Dunst, Adam Driver;2016;112;6.7;54787;3.71;76
+553;Fantastic Four;Action,Adventure,Sci-Fi;Josh Trank;Miles Teller, Kate Mara, Michael B. Jordan, Jamie Bell;2015;100;4.3;121847;56.11;27
+554;The Survivalist;Drama,Sci-Fi,Thriller;Stephen Fingleton;Mia Goth, Martin McCann, Barry Ward, Andrew Simpson;2015;104;6.3;9187;0;80
+560;Idiocracy;Adventure,Comedy,Sci-Fi;Mike Judge;Luke Wilson, Maya Rudolph, Dax Shepard, Terry Crews;2006;84;6.6;115355;0.44;66
+567;Transformers: Dark of the Moon;Action,Adventure,Sci-Fi;Michael Bay;Shia LaBeouf, Rosie Huntington-Whiteley, Tyrese Gibson, Josh Duhamel;2011;154;6.3;338369;352.36;42
+578;Tron;Action,Adventure,Sci-Fi;Joseph Kosinski;Jeff Bridges, Garrett Hedlund, Olivia Wilde, Bruce Boxleitner;2010;125;6.8;273959;172.05;49
+589;Sunshine;Adventure,Sci-Fi,Thriller;Danny Boyle;Cillian Murphy, Rose Byrne, Chris Evans, Michelle Yeoh;2007;107;7.3;199860;3.68;64
+599;Moon;Drama,Mystery,Sci-Fi;Duncan Jones;Sam Rockwell, Kevin Spacey, Dominique McElligott,Rosie Shaw;2009;97;7.9;277123;5.01;67
+617;2307: Winter's Dream;Sci-Fi;Joey Curtis;Paul Sidhu, Branden Coles, Arielle Holmes, Kelcey Watson;2016;101;4;277;20.76;53
+637;Source Code;Mystery,Romance,Sci-Fi;Duncan Jones;Jake Gyllenhaal, Michelle Monaghan, Vera Farmiga,Jeffrey Wright;2011;93;7.5;404884;54.7;74
+645;Viral;Drama,Horror,Sci-Fi;Henry Joost;Sofia Black-D'Elia, Analeigh Tipton,Travis Tope, Michael Kelly;2016;85;5.5;3564;0;72
+674;Green Lantern;Action,Adventure,Sci-Fi;Martin Campbell;Ryan Reynolds, Blake Lively, Peter Sarsgaard,Mark Strong;2011;114;5.6;231907;116.59;39
+681;The Hunger Games: Mockingjay - Part 1;Action,Adventure,Sci-Fi;Francis Lawrence;Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth, Woody Harrelson;2014;123;6.7;331902;337.1;64
+688;Jumper;Action,Adventure,Sci-Fi;Doug Liman;Hayden Christensen, Samuel L. Jackson, Jamie Bell,Rachel Bilson;2008;88;6.1;252503;80.17;35
+691;Resident Evil: Retribution;Action,Horror,Sci-Fi;Paul W.S. Anderson;Milla Jovovich, Sienna Guillory, Michelle Rodriguez, Aryana Engineer;2012;96;5.4;114144;42.35;39
+698;I Origins;Drama,Romance,Sci-Fi;Mike Cahill;Michael Pitt, Steven Yeun, Astrid Bergès-Frisbey, Brit Marling;2014;106;7.3;86271;0.33;57
+707;The Adjustment Bureau;Romance,Sci-Fi,Thriller;George Nolfi;Matt Damon, Emily Blunt, Lisa Thoreson, Florence Kastriner;2011;106;7.1;208632;62.45;60
+711;Transformers: Revenge of the Fallen;Action,Adventure,Sci-Fi;Michael Bay;Shia LaBeouf, Megan Fox, Josh Duhamel, Tyrese Gibson;2009;150;6;335757;402.08;35
+732;Paul;Adventure,Comedy,Sci-Fi;Greg Mottola;Simon Pegg, Nick Frost, Seth Rogen, Mia Stallard;2011;104;7;201707;37.37;57
+765;The Purge;Horror,Sci-Fi,Thriller;James DeMonaco;Ethan Hawke, Lena Headey, Max Burkholder,Adelaide Kane;2013;85;5.7;154588;64.42;41
+767;Ender's Game;Action,Sci-Fi;Gavin Hood;Harrison Ford, Asa Butterfield, Hailee Steinfeld, Abigail Breslin;2013;114;6.7;194236;61.66;51
+775;The Fountain;Drama,Sci-Fi;Darren Aronofsky;Hugh Jackman, Rachel Weisz, Sean Patrick Thomas, Ellen Burstyn;2006;96;7.3;199193;10.14;51
+782;Self/less;Action,Mystery,Sci-Fi;Tarsem Singh;Ryan Reynolds, Natalie Martinez, Matthew Goode,Ben Kingsley;2015;117;6.5;67196;12.28;34
+800;The World's End;Action,Comedy,Sci-Fi;Edgar Wright;Simon Pegg, Nick Frost, Martin Freeman, Rosamund Pike;2013;109;7;199813;26;81
+823;G.I. Joe: The Rise of Cobra;Action,Adventure,Sci-Fi;Stephen Sommers;Dennis Quaid, Channing Tatum, Marlon Wayans,Adewale Akinnuoye-Agbaje;2009;118;5.8;180105;150.17;32
+876;28 Weeks Later;Drama,Horror,Sci-Fi;Juan Carlos Fresnadillo;Jeremy Renner, Rose Byrne, Robert Carlyle, Harold Perrineau;2007;100;7;221858;28.64;78
+879;G.I. Joe: Retaliation;Action,Adventure,Sci-Fi;Jon M. Chu;Dwayne Johnson, Channing Tatum, Adrianne Palicki,Byung-hun Lee;2013;110;5.8;152145;122.51;41
+885;Equals;Drama,Romance,Sci-Fi;Drake Doremus;Nicholas Hoult, Kristen Stewart, Vernetta Lopez,Scott Lawrence;2015;101;6.1;16361;0.03;43
+905;RoboCop;Action,Crime,Sci-Fi;José Padilha;Joel Kinnaman, Gary Oldman, Michael Keaton, Abbie Cornish;2014;117;6.2;190833;58.61;52
+909;Slither;Comedy,Horror,Sci-Fi;James Gunn;Nathan Fillion, Elizabeth Banks, Michael Rooker, Don Thompson;2006;95;6.5;64351;7.77;69
+914;Coherence;Mystery,Sci-Fi,Thriller;James Ward Byrkit;Emily Baldoni, Maury Sterling, Nicholas Brendon, Elizabeth Gracen;2013;89;7.2;66265;0.07;65
+925;Superman Returns;Action,Adventure,Sci-Fi;Bryan Singer;Brandon Routh, Kevin Spacey, Kate Bosworth, James Marsden;2006;154;6.1;246797;200.07;72
+945;Riddick;Action,Sci-Fi,Thriller;David Twohy;Vin Diesel, Karl Urban, Katee Sackhoff, Jordi Mollà;2013;119;6.4;132098;42;49
+949;After Earth;Action,Adventure,Sci-Fi;M. Night Shyamalan;Jaden Smith, David Denman, Will Smith,Sophie Okonedo;2013;100;4.9;166512;60.52;33
+955;Death Race;Action,Sci-Fi,Thriller;Paul W.S. Anderson;Jason Statham, Joan Allen, Tyrese Gibson, Ian McShane;2008;105;6.4;173731;36.06;43
+962;Into the Forest;Drama,Sci-Fi,Thriller;Patricia Rozema;Ellen Page, Evan Rachel Wood, Max Minghella,Callum Keith Rennie;2015;101;5.9;10220;0.01;59
